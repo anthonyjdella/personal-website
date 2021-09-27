@@ -1,20 +1,19 @@
 ---
 enable: true
-topTitle: About
+topTitle: About Anthony
 title: >
-  ## About me
+  ## Get to Know Me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  There's a story behind the person. Failing multiple times, but rising up and overcoming challenges.
 content: >
-  ### I design and build ultimate things.
+  ### I develop and design cool things.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  I love to work with software because it has unlimited possibilities. Having the ability to create anything is really fun and rewarding. I love to solve problems and learn new things, this quality is so important in tech.
+  
+  I also believe it's important to present your technical solutions in a beautiful and intuitive package. When I'm not working in front of my computer, you can find me traveling, watching basketball, being a foodie, or taking photos.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
-button2Target: contact
-image: images/about/about-img.jpg
+button2Target: files/Anthony_Dellavecchia_Resume.pdf
+button3Target: files/test.html
+image: images/about/me-standing.png

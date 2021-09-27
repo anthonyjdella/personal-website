@@ -2,16 +2,19 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-
-image: images/skill/skill_image.jpg
+  ## Technical Proficiencies
+  
+  These are based solely on my own perceptions.
+image: images/skill/me-sitting.png
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Data Structures
+    percent: 80
+  - title: Algorithms
+    percent: 70
+  - title: System Design
+    percent: 70
+  - title: Python3
+    percent: 70
+  - title: Java
+    percent: 80

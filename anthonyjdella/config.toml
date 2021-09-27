@@ -2,32 +2,39 @@ baseURL = "https://anthonyjdella.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "PortAnthony Dellavecchia | Software Developerio"
+
 # Main Menu
 [[menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
+
 [[menu.main]]
 name = "About"
 url = "#about"
 weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
+
 [[menu.main]]
 name = "Resume"
 url = "#resume"
-weight = 5
+weight = 3
+
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 4
+
 [[menu.main]]
 name = "Blog"
 url = "#blog"
+weight = 5
+
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
 weight = 6
+
 [[menu.main]]
 name = "Contact"
 url = "#contact"
@@ -54,38 +61,49 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+copyright = "© 2021 • Made with ❤️, Hugo, & Netlify by Anthony Dellavecchia"
+footerLogo = "images/contact/avatar.png"
+formspreeURL = "https://formspree.io/f/mvodlbrv"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/contact/avatar.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Dallas, Texas, USA"
+email = "anthony.dellavecchia.tech@gmail.com"
+openingHours = """
+Mon - Fri  
+1pm to 6pm
+"""
+phone = "(940) 242 1288"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyDGIkGQZO9Pz2MpLwaKKS1yq_7LXZQPd3Q"
+latitude = "32.965557"
+longitude = "-96.715836"
 pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+icon = "fa-github"
+url = "https://github.com/anthonyjdella"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fa-linkedin"
+url = "https://www.linkedin.com/in/anthonydellavecchia"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-medium"
+url = "https://medium.com/@anthonyjdella"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
+icon = "fa-twitter"
+url = "https://twitter.com/anthonyjdella"
 weight = 4
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/anthonyjdella/"
+weight = 5
+[[params.social]]
+icon = "fa-envelope"
+url = "mailto:anthony.dellavecchia.tech@gmail.com"
+weight = 6

@@ -2,57 +2,46 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
+  ## Professional Experience
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Various positions in different industries have broadened my skill set. Take a look at my work history and studies.
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Work
+tab2Name: Education
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### State Farm
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Software Developer
+    time: 2018-present
   - content: >
-      #### Master in Arts
+      #### Bank of America
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Software Developer
+    time: 2017-2018
   - content: >
-      #### Master in Arts
+      #### General Motors Financial
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      ETL Developer (Internship)
+    time: 2016-2016
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### UCLA
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      M.S. in Engineering Management  
+
+      3.71 GPA
+    time: 2019-Present
   - content: >
-      #### Aperture Science 
+      #### University of Texas at Dallas
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
-  - content: >
-      #### ACME Inc. 
+      B.S. in Information Technology & Systems  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      3.66 GPA, Cum Laude Latin Honors  
+      
+      Dean's List for Top 10% of Students
+    time: 2014-2016

@@ -3,17 +3,20 @@ enable: true
 topTitle: Testimonials
 title: >
   ## What People Say About Me?
-
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Anh Chu
+    comment: He is a very fast learner and very creative. 
+    time: Sept 19, 2021
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Daniel Pawluskiewicz
+    comment: Anthony is energetic and a big team player. Whatever he does, he does it with passion.
+    time: Sept 19, 2021
+    star: 5
+  - name: Edlison Blasius
+    comment: Looking for something that you don't know? This guy is your guy, he is there whenever you need him.
+    time: Sept 19, 2021
+    star: 5
+  - name: Britten Burchardt
+    comment: Anthony is not only an eager and detail oriented co-worker but also an inspiring professional. Anthony was a fantastic person to work with. Anthony is a forward thinking natural leader that cannot be overestimated.
     time: Mar 08, 2020
-    star: 3
+    star: 5
