@@ -17,17 +17,19 @@ education:
 
       Software Developer
     time: 2018-present
+    image: images/resume/sf.png
   - content: >
       #### Bank of America
 
       Software Developer
     time: 2017-2018
+    image: images/resume/boa.png
   - content: >
       #### General Motors Financial
 
       ETL Developer (Internship)
     time: 2016-2016
-
+    image: images/resume/gm.jpeg
 experience:
   - content: >
       #### UCLA
@@ -36,6 +38,7 @@ experience:
 
       3.71 GPA
     time: 2019-Present
+    image: images/resume/ucla.png
   - content: >
       #### University of Texas at Dallas
 
@@ -45,3 +48,4 @@ experience:
       
       Dean's List for Top 10% of Students
     time: 2014-2016
+    image: images/resume/utd.png
