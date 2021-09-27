@@ -1,11 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Anthony
+topTitle: Hey, I'm
 content: >
-  # I am here for your personal business
-
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  # Anthony Dellavecchia.
+  
+  ### Full-Stack Software Developer   
+  
+  I've developed software for thousands of users, both at State Farm and Bank of America. I'm also working towards my Master's degree at UCLA.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
