@@ -41,7 +41,7 @@ contactLink = "contact"
 copyright = "© 2021 • Made with ❤️, Hugo, & Netlify by Anthony Dellavecchia"
 footerLogo = "images/contact/avatar.png"
 formspreeURL = "https://formspree.io/f/mvodlbrv"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-X3SHCY6M34"
 logo = "images/contact/avatar.png"
 
 [params.address]
