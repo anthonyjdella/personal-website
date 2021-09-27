@@ -1,7 +1,8 @@
-[submodule "anthonyjdella/themes/portio"]
-	path = anthonyjdella/themes/portio
-	url = https://github.com/anthonyjdella/portio-hugo.git
 [submodule "anthonyjdella/public"]
 	path = anthonyjdella/public
 	url = git@github.com:anthonyjdella/anthonyjdella.github.io.git
 	branch = main
+[submodule "anthonyjdella/themes/portio"]
+	path = anthonyjdella/themes/portio
+	url = git@github.com:anthonyjdella/portio-hugo.git
+	branch = master
