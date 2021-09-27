@@ -35,24 +35,6 @@ name = "Contact"
 url = "#contact"
 weight = 6
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
-
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
@@ -66,8 +48,8 @@ logo = "images/contact/avatar.png"
 address = "Dallas, Texas, USA"
 email = "anthony.dellavecchia.tech@gmail.com"
 openingHours = """
-Mon - Fri  
-1pm to 6pm
+Mon-Fri  
+(1PM-6PM)
 """
 phone = "(940) 242 1288"
 

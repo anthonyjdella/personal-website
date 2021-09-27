@@ -3,20 +3,31 @@ enable: true
 topTitle: Work
 title: >
   ## Specialization
+  
   These are my primary areas of specialization.
 service:
   - content: >
-      #### Backend Development
+      #### Backend
 
       Developing API's and services used for consumption. 
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design 
+      #### UI/UX 
 
       Designing beautiful yet functional interfaces. 
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Web 
       
       Creating websites for people to interact with.
     image: images/service/creative.svg
+  - content: >
+      #### Photography 
+      
+      Portrait photography with my Canon.
+    image: images/service/creative.svg
+  - content: >
+      #### Photo Editing 
+      
+      Editing photos using Photoshop and Lightroom.
+    image: images/service/ui-ux.svg
