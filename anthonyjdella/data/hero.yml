@@ -1,12 +1,8 @@
 ---
 enable: true
-topTitle: Hey, I'm
+topTitle: 
 content: >
-  # Anthony Dellavecchia.
-  
-  ### Full-Stack Software Developer   
-  
-  I've developed software for thousands of users, both at State Farm and Bank of America. I'm also working towards my Master's degree at UCLA.
+  I'm **Anthony Dellavecchia**, a full-stack software developer focused on writing beautiful code at an optimal time & space complexity. 
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/me-smile.jpg
