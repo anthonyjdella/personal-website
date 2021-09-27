@@ -2,7 +2,7 @@ baseURL = "https://anthonyjdella.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "PortAnthony Dellavecchia | Software Developerio"
+title = "Anthony Dellavecchia | Software Developer"
 
 # Main Menu
 [[menu.main]]
@@ -21,24 +21,19 @@ url = "#resume"
 weight = 3
 
 [[menu.main]]
-name = "Service"
-url = "#service"
-weight = 4
-
-[[menu.main]]
 name = "Blog"
 url = "#blog"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "Work"
 url = "#portfolio"
-weight = 6
+weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
