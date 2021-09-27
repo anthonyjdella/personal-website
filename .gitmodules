@@ -1,6 +1,6 @@
 [submodule "anthonyjdella/themes/portio"]
 	path = anthonyjdella/themes/portio
-	url = https://github.com/StaticMania/portio-hugo.git
+	url = https://github.com/anthonyjdella/portio-hugo.git
 [submodule "anthonyjdella/public"]
 	path = anthonyjdella/public
 	url = git@github.com:anthonyjdella/anthonyjdella.github.io.git
