@@ -1,5 +1,8 @@
 baseURL = "https://www.anthonydellavecchia.com/"
 languageCode = "en-us"
+relativeurls = true
+uglyurls = true
+
 paginate = 6
 theme = "portio"
 title = "Anthony Dellavecchia | Software Developer"
