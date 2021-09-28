@@ -87,3 +87,7 @@ weight = 5
 icon = "fa-envelope"
 url = "mailto:anthony.dellavecchia.tech@gmail.com"
 weight = 6
+[[params.social]]
+icon = "fa-calendar"
+url = "https://calendly.com/anthonyjdella"
+weight = 7
