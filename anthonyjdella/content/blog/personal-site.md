@@ -17,4 +17,4 @@ This is for my reference, so I remember how to make changes to this site without
 7. ```cd into public directory```
 8. Commit and push changes to anthonyjdella.github.io repository (static files).
 9. GitHub pages will automatically deploy to `anthonyjdella.github.io`.
-10. Netlify will pick up the deployment and deploy to `anthonydellavecchia.com`
+10. GitHub Actions will pick up changes made to the master branch and deploy to `anthonydellavecchia.com`, which is hosted on Firebase.
