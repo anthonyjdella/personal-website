@@ -1,7 +1,7 @@
-baseURL = "https://www.anthonydellavecchia.com/"
+baseURL = "https://anthonydellavecchia.com/"
 languageCode = "en-us"
-relativeurls = true
-uglyurls = true
+relativeurls = false
+uglyurls = false
 
 paginate = 6
 theme = "portio"
