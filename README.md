@@ -1,5 +1,5 @@
 # personal-website
-📄 Source code for my personal website built with Hugo + Netlify
+📄 Source code for my personal website built with Hugo + Firebase
 
 This repo:
 
@@ -14,4 +14,3 @@ Helpful videos which got me started:
 | [https://www.anthonydellavecchia.com](https://www.anthonydellavecchia.com)     | Primary       |
 | [https://anthonyjdella.github.io/](https://anthonyjdella.github.io/)    | Backup        |
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7663b38-1cb1-4bf2-b8c0-f094298a1524/deploy-status)](https://app.netlify.com/sites/anthonydellavecchia/deploys)
