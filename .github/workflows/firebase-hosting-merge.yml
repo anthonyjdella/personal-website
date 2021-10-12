@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           echo 'Deploying to Firebase...'
+          cd anthonyjdella
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
