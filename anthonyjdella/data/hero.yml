@@ -2,7 +2,7 @@
 enable: true
 topTitle: 
 content: >
-  I'm **Anthony Dellavecchia**, a software engineer focused on writing beautiful code at an optimal time & space complexity. 
+  I'm **Anthony Dellavecchia**, a software engineer focused on writing efficient code at an optimal time & space complexity. 
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/me-smile.jpg
