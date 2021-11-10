@@ -41,7 +41,7 @@ weight = 6
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "© 2021 • Made with ❤️, Hugo, & Firebase by Anthony Dellavecchia"
+copyright = "• Made with ❤️, Hugo, & Firebase by Anthony Dellavecchia"
 footerLogo = "images/contact/avatar.png"
 formspreeURL = "https://formspree.io/f/mvodlbrv"
 googleAnalytics = "G-X3SHCY6M34"
