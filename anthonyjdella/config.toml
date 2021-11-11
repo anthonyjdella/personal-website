@@ -76,18 +76,22 @@ icon = "fa-medium"
 url = "https://medium.com/@anthonyjdella"
 weight = 3
 [[params.social]]
+icon = "fa-file-code-o"
+url = "https://dev.to/anthonyjdella"
+weight = 4
+[[params.social]]
 icon = "fa-twitter"
 url = "https://twitter.com/anthonyjdella"
-weight = 4
+weight = 5
 [[params.social]]
 icon = "fa-instagram"
 url = "https://www.instagram.com/anthonyjdella/"
-weight = 5
+weight = 6
 [[params.social]]
 icon = "fa-envelope"
 url = "mailto:anthony.dellavecchia.tech@gmail.com"
-weight = 6
+weight = 7
 [[params.social]]
 icon = "fa-calendar"
 url = "https://calendly.com/anthonyjdella"
-weight = 7
+weight = 8
