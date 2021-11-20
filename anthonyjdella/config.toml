@@ -46,6 +46,7 @@ footerLogo = "images/contact/avatar.png"
 formspreeURL = "https://formspree.io/f/mvodlbrv"
 googleAnalytics = "G-X3SHCY6M34"
 logo = "images/contact/avatar.png"
+bubbleImg = "images/contact/bubble.png"
 
 [params.address]
 address = "Dallas, Texas, USA"
