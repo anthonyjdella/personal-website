@@ -5,6 +5,8 @@ content: >
   I'm **Anthony Dellavecchia**, a software engineer focused on writing efficient code at an optimal time & space complexity. 
 buttonName: Contact me
 buttonURL: contact
+button2Name: View My Resume
+button2Target: https://resume.anthonydellavecchia.com
 image: images/hero/me-smile.jpg
 videoThumb: images/blog/anthony-logo.svg
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
