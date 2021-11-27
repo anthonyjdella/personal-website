@@ -1,7 +1,7 @@
 ---
 title: Automated Job Search
 date: 2018-03-21T12:49:27.000+06:00
-thumbnail: images/portfolio/job-search.png
+thumbnail: ../images/portfolio/job-search.png
 service: Scripting, Nodejs, Automation
 client: Job Seekers
 shortDescription: This script does automated web scraping on various websites to look for available job postings.
