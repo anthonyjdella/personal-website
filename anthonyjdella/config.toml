@@ -75,18 +75,34 @@ icon = "fa-file-code-o"
 url = "https://dev.to/anthonyjdella"
 weight = 4
 [[params.social]]
-icon = "fa-twitter"
-url = "https://twitter.com/anthonyjdella"
+icon = "fa fa-stack-overflow"
+url = "https://stackoverflow.com/users/story/9465781"
 weight = 5
+[[params.social]]
+icon = "fa fa-codepen"
+url = "https://codepen.io/anthonyjdella"
+weight = 6
 [[params.social]]
 icon = "fa-instagram"
 url = "https://www.instagram.com/anthonyjdella/"
-weight = 6
+weight = 7
+[[params.social]]
+icon = "fa-twitter"
+url = "https://twitter.com/anthonyjdella"
+weight = 8
+[[params.social]]
+icon = "fa fa-heart"
+url = "https://github.com/sponsors/anthonyjdella"
+weight = 9
+[[params.social]]
+icon = "fa fa-coffee"
+url = "https://www.buymeacoffee.com/anthonyjdella"
+weight = 10
 [[params.social]]
 icon = "fa-envelope"
 url = "mailto:anthony.dellavecchia.tech@gmail.com"
-weight = 7
+weight = 11
 [[params.social]]
-icon = "fa-calendar"
+icon = "fa fa-calendar-check-o"
 url = "https://calendly.com/anthonyjdella"
-weight = 8
+weight = 12
