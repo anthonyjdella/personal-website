@@ -4,30 +4,40 @@ topTitle: Work
 title: >
   ## Specialization
   
-  These are my primary areas of specialization.
+  I am available for hire and accept freelance work.
 service:
   - content: >
-      #### Backend
+      #### Back-end Development
 
-      Developing API's and services used for consumption. 
-    image: images/service/branding.svg
+      By implementing server-side application logic, I handle and manipulate data to develop API's and services which can be used for consumption.
+    image: images/service/back.png
   - content: >
-      #### UI/UX 
+      #### Front-end Development
+      
+      Using client-side code, I create responsive websites that handle requests all the while, providing interactive experiences for users.
+    image: images/service/editing.png
+  - content: >
+      #### UI/UX & Graphic Design
 
-      Designing beautiful yet functional interfaces. 
-    image: images/service/ui-ux.svg
+      While prioritizing great user experiences, with a keen eye for design, I can create beautiful yet functional interfaces and graphics.
+    image: images/service/design.png
   - content: >
-      #### Web 
+      #### Tech Talks and Workshops 
       
-      Creating websites for people to interact with.
-    image: images/service/creative.svg
+      My approach to teaching is visual & interactive, while keeping things simple. My style has gotten a lot of praise in the corporate environment.
+    image: images/service/talks.png
   - content: >
-      #### Photography 
+      #### Consultation 
       
-      Portrait photography with my Canon.
-    image: images/service/creative.svg
+      With years of experience coupled with my enthusiasm for technology, I can give specialized advice to optimize applications, products, & businesses.
+    image: images/service/consult.png
   - content: >
-      #### Photo Editing 
+      #### Technical Documentation 
       
-      Editing photos using Photoshop and Lightroom.
-    image: images/service/ui-ux.svg
+      Many developers dread writing documentation, but I love it. Organized & easy to understand docs are key to helping other devs use your product.
+    image: images/service/doc.png
+  - content: >
+      #### Photography & Editing
+      
+      I enjoy shooting portrait photography with my Canon EOS-RP. The real magic happens when I use Photoshop and Lightroom to edit the photos.
+    image: images/service/photo.png

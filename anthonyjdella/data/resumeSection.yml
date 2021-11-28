@@ -4,7 +4,9 @@ topTitle: My Resume
 title: >
   ## Professional Experience
 
-  Various positions in different industries have broadened my skill set. Take a look at my work history and studies.
+  I've worked on professional projects involving back-end development, front-end development, data warehousing, ETL, and more. Due to these experiences, my skill set is rather broad.
+
+  For more info, check out my resume.
 
 tab1Name: Work
 tab2Name: Education
@@ -15,7 +17,7 @@ education:
   - content: >
       #### State Farm
 
-      Software Developer
+      Software Engineer
     time: 2018-present
     image: images/resume/sf.png
   - content: >
@@ -35,17 +37,13 @@ experience:
       #### UCLA
 
       M.S. in Engineering Management  
-
-      3.71 GPA
     time: 2019-Present
     image: images/resume/ucla.png
+    grade: 3.71 GPA
   - content: >
       #### University of Texas at Dallas
 
       B.S. in Information Technology & Systems  
-
-      3.66 GPA, Cum Laude Latin Honors  
-      
-      Dean's List for Top 10% of Students
     time: 2014-2016
     image: images/resume/utd.png
+    grade: 3.66 GPA, Cum Laude Latin Honors

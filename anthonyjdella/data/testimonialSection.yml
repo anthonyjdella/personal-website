@@ -2,21 +2,25 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People Say About Me?
+  ## What People (in Tech) Say About Me?
 testimonial:
   - name: Anh Chu
-    comment: He is a very fast learner and very creative. 
-    time: Sept 19, 2021
+    comment: Anthony is a very fast learner and a very creative full-stack developer who is obsessed with creating beautiful, sleek, and functional websites.
+    time: Software Engineer at Microsoft
     star: 5
-  - name: Daniel Pawluskiewicz
-    comment: Anthony is energetic and a big team player. Whatever he does, he does it with passion.
-    time: Sept 19, 2021
+  - name: Ranjita Sahu
+    comment: Anthony's passion and knowledge on new technologies and DevOps is much appreciated. He brings those expertise to help us build a stronger product team. Anthony has a lot of potential to grow his brand and has been working towards building the same. 
+    time: Technology Engineer and Manager at State Farm
     star: 5
-  - name: Edlison Blasius
-    comment: Looking for something that you don't know? This guy is your guy, he is there whenever you need him.
-    time: Sept 19, 2021
+  - name: Rich Novak
+    comment: Anthony has excelled in his first year with State Farm, particularly with the competency expectations I have of a new employee and developer. I appreciate his ability to work with new developers on the team, his ability to dig in and learn, experiment, and try his best at new technical challenges. He was able to show his early leadership of the dev group and really surprised our program partners with his thoroughness and attention to detail. 
+    time: Technology Manager at State Farm
     star: 5
-  - name: Britten Burchardt
-    comment: Anthony is not only an eager and detail oriented co-worker but also an inspiring professional. Anthony was a fantastic person to work with. Anthony is a forward thinking natural leader that cannot be overestimated.
-    time: Mar 08, 2020
+  - name: Kris Diaz
+    comment: I have known Anthony for a couple of years, and he was our intern at GM Financial. As his manager, I had an opportunity to observe his participation and interaction in work and learning about the Data Integration area. He was an outstanding intern in all respects. Anthony has proven that through hard work and team work, he can accomplish tasks, learn quickly, and communicate effectively. 
+    time: Assistant Vice President at GM
+    star: 5
+  - name: Kevin Heilmann
+    comment: At a personal level, Anthony is well-disciplined with a pleasant personality. He was motivated to learn the material and apply it.
+    time: Data Integration Manager at GM
     star: 5
