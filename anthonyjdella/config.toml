@@ -10,7 +10,7 @@ title = "Anthony Dellavecchia | Software Engineer"
 # Main Menu
 [[menu.main]]
 name = "Home"
-url = "#home"
+url = "/"
 weight = 1
 
 [[menu.main]]
