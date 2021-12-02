@@ -28,6 +28,11 @@ name = "Portfolio"
 url = "portfolio"
 weight = 4
 
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
 [params]
 homeURL = "https://anthonydellavecchia.com/#home"
 aboutPageURL = "about"
