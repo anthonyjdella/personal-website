@@ -1,5 +1,5 @@
 ---
-title: "How to Build This Site"
+title: "Building This Site"
 date: 2021-09-28T12:49:27+06:00
 featureImage: images/allpost/keyboard.jpg
 postImage: images/allpost/keyboard.jpg
