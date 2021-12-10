@@ -1,7 +1,7 @@
 ---
 title: JSON Resume
 date: 2021-10-20T12:49:27.000+06:00
-thumbnail: ../images/portfolio/
+thumbnail: ../images/portfolio/firebase.png
 service: API, Javascript, Firebase, CI/CD
 client: Myself
 shortDescription: I reversed engineered the JSON Resume Registry project so that it works on my privately hosted Firebase domain.
