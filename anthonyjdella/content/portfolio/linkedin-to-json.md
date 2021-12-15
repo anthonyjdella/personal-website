@@ -25,3 +25,5 @@ After adding these features, all I have to do is add build the project and add t
 
 ![Firebase](/images/portfolio/linkedin.png)
 Here, you can see the Chrome Extension in use, when visiting a LinkedIn profile.
+
+View the source code here: [@customized-registry-functions](https://github.com/anthonyjdella/customized-linkedin-to-jsonresume)

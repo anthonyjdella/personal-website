@@ -58,3 +58,6 @@ You can view the health of the API in this view.
 
 ![Firebase](/images/portfolio/firebase-hosting.png)
 By default, Firebase will give you a domain with the projectname-firebaseapp.com. Since I didn't want to use this domain, I connected to to my personal domain in this view. You can also add subdomains which is pretty cool. Since I already own the domain `anthonydellavecchia`, I can redirect this project to `resume.anthonydellavecchia`.
+
+
+View the source code here: [@customized-registry-functions](https://github.com/anthonyjdella/customized-registry-functions)
