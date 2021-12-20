@@ -1,7 +1,7 @@
 ---
 title: LinkedIn to JSON Chrome Extension
 date: 2021-10-10T12:49:27.000+06:00
-thumbnail: ../images/portfolio/extension.png
+thumbnail: ../images/portfolio/extension3.png
 service: Chrome Extension, Javascript, JSON
 client: Myself
 shortDescription: This Chrome Extension collects data from your LinkedIn profile and exports it into JSON, which can be used with the JSON Resume standard.
