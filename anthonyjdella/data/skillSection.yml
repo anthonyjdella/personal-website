@@ -6,6 +6,7 @@ content: >
   
   These are based solely on my own perceptions.
 image: images/skill/me-sitting.png
+imageOnMouseOver: images/skill/me-green.jpg
 
 skill:
   - title: Data Structures

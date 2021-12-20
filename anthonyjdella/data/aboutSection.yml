@@ -23,3 +23,4 @@ button2Name: View My Resume
 button1Target: contact
 button2Target: https://resume.anthonydellavecchia.com
 image: images/about/me-standing.png
+imageOnMouseOver: images/about/me-sitting.jpg
