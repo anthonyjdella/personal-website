@@ -24,17 +24,17 @@ You can install these themes as NPM packages with `npm install`. I also packaged
 
 View them here: [GitHub](https://github.com/anthonyjdella?tab=packages) or [NPM](https://www.npmjs.com/~anthonyjdella).
 
-![Firebase](/images/portfolio/theme1.png)
+![Image](/images/portfolio/theme1.png)
     * Caffeine Theme
 
-![Firebase](/images/portfolio/theme2.png)
+![Image](/images/portfolio/theme2.png)
     * Elegant Theme
 
-![Firebase](/images/portfolio/theme3.png)
+![Image](/images/portfolio/theme3.png)
     * Mocha-Responsive Theme
 
-![Firebase](/images/portfolio/theme4.png)
+![Image](/images/portfolio/theme4.png)
     * GitHub Theme
 
-![Firebase](/images/portfolio/theme5.png)
+![Image](/images/portfolio/theme5.png)
     * Stackoverflow Theme

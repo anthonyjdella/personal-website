@@ -47,16 +47,16 @@ Some of the themes I've customized include:
 
 (These are all deployed as NPM packages, so you can easily install them with `npm install`)
 
-![Firebase](/images/portfolio/firebase-db.png)
+![Image](/images/portfolio/firebase-db.png)
 This is the Firebase database used for this project. Anytime you append a GitHub username to the URL, that data will be added to this database and stored (for speed).
 
-![Firebase](/images/portfolio/firebase-functions.png)
+![Image](/images/portfolio/firebase-functions.png)
 This is the Firebase Function (called registry) that is an API call triggered by an HTTP request. 
 
-![Firebase](/images/portfolio/firebase-functions-2.png)
+![Image](/images/portfolio/firebase-functions-2.png)
 You can view the health of the API in this view.
 
-![Firebase](/images/portfolio/firebase-hosting.png)
+![Image](/images/portfolio/firebase-hosting.png)
 By default, Firebase will give you a domain with the projectname-firebaseapp.com. Since I didn't want to use this domain, I connected to to my personal domain in this view. You can also add subdomains which is pretty cool. Since I already own the domain `anthonydellavecchia`, I can redirect this project to `resume.anthonydellavecchia`.
 
 

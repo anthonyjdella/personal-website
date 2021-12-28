@@ -23,7 +23,7 @@ Therefore, I updated it to accept the newest JSON schema definition (version 1.0
 
 After adding these features, all I have to do is add build the project and add the Extension to my Chrome browser. Then, when I visit a LinkedIn profile, I can easily export that profile into a JSON file.
 
-![Firebase](/images/portfolio/linkedin.png)
+![Image](/images/portfolio/linkedin.png)
 Here, you can see the Chrome Extension in use, when visiting a LinkedIn profile.
 
 View the source code here: [@customized-registry-functions](https://github.com/anthonyjdella/customized-linkedin-to-jsonresume)

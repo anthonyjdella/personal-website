@@ -12,15 +12,15 @@ Although I have experience with design tools like Photoshop, Lightroom, and Prem
 1. Start by creating an account with SVGator and making a new project.
 2. Design your logo with the pen and shape tools. This part requires some previous experience since you'll need to design the static image.
 
-![My 2D Design](/images/blog/ad.png)
+![Image](/images/blog/ad.png)
 
 3. Make sure to organize your canvas so that you can easily transform and animate the SVG.
 
-![Organized Canvas](/images/blog/svgator.png)
+![Image](/images/blog/svgator.png)
 
 4. Add animations based on a timeline. To make an image move from point A to point B, you will need to position the image, move the timeline, and re-position the image. Check out how complex the timeline is for this logo:
 
-![Animated Timeline](/images/blog/svgator2.png)
+![Image](/images/blog/svgator2.png)
 
 That was just the framework for creating an animated logo. Obviously, a lot of personal creativity will have to be used, since you need to design a logo and then think of how you want to animate it. But hopefully this helps point you in the right direction!
 

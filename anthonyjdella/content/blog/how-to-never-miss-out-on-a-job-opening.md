@@ -11,14 +11,14 @@ How many times have you missed out on job opportunities because you didn’t kno
 
 This script will keep you up to date with job postings so you never miss out on the right job opportunity!
 
-![Web Scraping](/images/single-blog/web-scraping.png)
+![Image](/images/single-blog/web-scraping.png)
 _Scraping is taking data from a website and doing things with it!_
 
 I will teach you how to create a script that will automatically fetch job posting data from a company’s website. More specifically, the script will automatically go to “State Farm’s” website and search for specific jobs. Then, it will scrape, or extract, the data from the web page and save it to a text file. After that, you will receive an email with all of the new jobs that have shown up from StateFarm.com. __You’ll never miss out on that job opening again!__
 
 This will be written in Node.js, and will use the following external APIs: Puppeteer, File System, and Nodemailer.
 
-![Web Scraping](/images/single-blog/nodejs.png)
+![Image](/images/single-blog/nodejs.png)
 
 #### To view the code on GitHub, visit : [here](https://github.com/anthonyjdella/automated-job-web-scraping)
 
@@ -46,7 +46,7 @@ $ npm install file-system --save
 
 Create a main file that contains the code. Most of the scraping code in the next section will be in this file. I saved it as `scrape-state-farm.js` within a subfolder of the project directory that we created earlier `automated-job-web-scraping/src`. Src is a folder that I created that includes the primary files.
 
-![Web Scraping](/images/single-blog/automation.jpeg)
+![Image](/images/single-blog/automation.jpeg)
 
 _Time for some automated fun. No humans allowed!_
 
@@ -93,7 +93,7 @@ Before looking at more code, lets think of the flow that needs to happen.
 7. Click for the Search button to load the results
 8. Wait for the page to load
 
-![Web Scraping](/images/single-blog/search-jobs.png)
+![Image](/images/single-blog/search-jobs.png)
 
 _What State Farms website looks like after those steps above. These are the jobs I’m trying to scrape._
 
@@ -121,7 +121,7 @@ _Selectors as arguments._
 
 You might be wondering what parameters go in those functions. Most of them are selectors. These can be found by using the inspect element in developer tools of your browser (F12).
 
-![Web Scraping](/images/single-blog/search-jobs-inspect.png)
+![Image](/images/single-blog/search-jobs-inspect.png)
 
 _Use Developer Tools to copy the selectors of the elements we want to manipulate._
 
@@ -173,7 +173,7 @@ console.log('Number of pages: ', numPages);
 
 Within this async function, we need to pass `page`. Next, identify the page selector `PAGE_CONTAINTER_SELECTOR` that contains all of the page numbers.
 
-![Web Scraping](/images/single-blog/search-jobs-inspect2.png)
+![Image](/images/single-blog/search-jobs-inspect2.png)
 
 _Using Developer Tools again, to copy the selector of the element._
 
@@ -200,7 +200,7 @@ _Loop through the pages. If there’s only 1 page, return 1. If there are 2 page
 
 After calling `getNumPages` and returning the number of pages, we can now loop through the pages. Then at each page, loop through the list of job postings on the site. Take a look at how the State Farm website is. It has 1 OR multiple pages. Then a list of job postings.
 
-![Web Scraping](/images/single-blog/search-jobs2.png)
+![Image](/images/single-blog/search-jobs2.png)
 
 _What the site looks like when there are multiple results and multiple pages._
 
@@ -406,11 +406,11 @@ _Call the emailModule, to send an email AFTER the results are written on a text 
 
 1. What the job results look like on State Farm’s website.
 
-![Web Scraping](/images/single-blog/search-jobs3.png)
+![Image](/images/single-blog/search-jobs3.png)
 
 2. What the job results look like on the text file `state-farm-jobs.txt` and the `console`.
 
-![Web Scraping](/images/single-blog/output.png)
+![Image](/images/single-blog/output.png)
 
 _Text file which lists all the jobs as well as the console._
 
