@@ -5,7 +5,7 @@ uglyurls = false
 
 paginate = 6
 theme = "portio"
-title = "Anthony Dellavecchia | Software Engineer"
+title = "Anthony Dellavecchia the Software Engineer"
 
 # Main Menu
 [[menu.main]]
@@ -46,6 +46,8 @@ formspreeURL = "https://formspree.io/f/mvodlbrv"
 googleAnalytics = "G-X3SHCY6M34"
 logo = "images/contact/avatar.png"
 bubbleImg = "images/contact/bubble.png"
+search = true
+search_minify = false
 
 [params.address]
 address = "Dallas, Texas, USA"
@@ -111,3 +113,6 @@ weight = 11
 icon = "fa fa-calendar-check-o"
 url = "https://calendly.com/anthonyjdella"
 weight = 12
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
