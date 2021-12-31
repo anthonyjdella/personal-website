@@ -56,7 +56,7 @@ Most viewers came from iPhones, followed by Android devices, then Macs. I had 1 
 
 ![Image](/images/blog/os.png)
 
-Browser compatibility was a big deal for me when designing this site. I actually tested it frequently in Chrome, Safari, and Firefox. Good thing I did this, because early on I had compatibility issues (which I fixed). I was also surprised to see that most visitors came viewed it in Safari.
+Browser compatibility was a big deal for me when designing this site. I actually tested it frequently in Chrome, Safari, and Firefox. Good thing I did this, because early on I had compatibility issues (which I fixed). I was also surprised to see that most visitors viewed it in Safari.
 
 ![Image](/images/blog/browser.png)
 

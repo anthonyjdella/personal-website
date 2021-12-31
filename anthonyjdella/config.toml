@@ -49,7 +49,7 @@ bubbleImg = "images/contact/bubble.png"
 
 [params.address]
 address = "Dallas, Texas, USA"
-email = "anthony.dellavecchia.tech@gmail.com"
+email = "hireme@anthonydellavecchia.com"
 openingHours = """
 Mon-Thu 
 (2PM-6PM)
@@ -105,7 +105,7 @@ url = "https://www.buymeacoffee.com/anthonyjdella"
 weight = 10
 [[params.social]]
 icon = "fa-envelope"
-url = "mailto:anthony.dellavecchia.tech@gmail.com"
+url = "mailto:hireme@anthonydellavecchia.com"
 weight = 11
 [[params.social]]
 icon = "fa fa-calendar-check-o"
