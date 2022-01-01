@@ -48,7 +48,7 @@ logo = "images/contact/avatar.png"
 bubbleImg = "images/contact/bubble.png"
 search = true
 search_minify = false
-disqusShortname = 'anthonydellavecchia'
+disqusShortname = 'anthonydellavecchia-1'
 
 [params.address]
 address = "Dallas, Texas, USA"
