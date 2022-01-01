@@ -114,5 +114,4 @@ icon = "fa fa-calendar-check-o"
 url = "https://calendly.com/anthonyjdella"
 weight = 12
 
-[outputs]
-home = ['HTML', 'RSS', 'JSON']
+disqusShortname = 'anthonydellavecchia'
