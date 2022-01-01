@@ -48,6 +48,7 @@ logo = "images/contact/avatar.png"
 bubbleImg = "images/contact/bubble.png"
 search = true
 search_minify = false
+disqusShortname = 'anthonydellavecchia'
 
 [params.address]
 address = "Dallas, Texas, USA"
@@ -113,5 +114,3 @@ weight = 11
 icon = "fa fa-calendar-check-o"
 url = "https://calendly.com/anthonyjdella"
 weight = 12
-
-disqusShortname = 'anthonydellavecchia'
