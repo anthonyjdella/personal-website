@@ -114,3 +114,16 @@ weight = 11
 icon = "fa fa-calendar-check-o"
 url = "https://calendly.com/anthonyjdella"
 weight = 12
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "permalink"]
+params = ["tags"]
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]

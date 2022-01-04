@@ -1,8 +1,10 @@
 ---
 title: "Hugo Markdown"
 date: 2018-02-01T12:49:27+06:00
+authors: "Anthony Dellavecchia"
 featureImage: images/allpost/code.jpg
 postImage: images/single-blog/hugo.jpg
+tags: ["markdown"]
 ---
 
 This is a collection of markdown examples, which also work with Hugo. (For my reference when adding markdown to future blog posts.)

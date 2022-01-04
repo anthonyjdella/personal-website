@@ -1,8 +1,10 @@
 ---
 title: "Launch Insights"
 date: 2021-12-28T12:49:27+06:00
+authors: "Anthony Dellavecchia"
 featureImage: images/blog/analytics.png
 postImage: images/blog/analytics.png
+tags: ["analytics"]
 ---
 
 After working on this website for weeks, on December 20th, I shared the finished product on social media platforms (like LinkedIn). I expected people to view the site, but wasn't sure about the number of users, how engaged they'd be, etc. Since I've Google Analytics built-in, I was curious to get insights from the tool and gather information from that data. Sure, I could do this analysis by myself, but why would I? Google Analytics is a free tool which does all the hard work for me. All I had to do was set it up and include it into my website.

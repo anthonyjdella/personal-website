@@ -1,8 +1,10 @@
 ---
 title: "Magic Numbers"
 date: 2018-04-17T12:49:27+06:00
+authors: "Anthony Dellavecchia"
 featureImage: images/allpost/magic-numbers.jpg
 postImage: images/single-blog/magic-number.png
+tags: ["best-practices"]
 ---
 
 Today, I got feedback from a code review and learned something new. It was about ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)), which are unique values with unexplained meaning or multiple occurrences which could (preferably) be replaced with named constants.

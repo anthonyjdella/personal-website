@@ -1,0 +1,20 @@
+{
+  "name": "anthonyjdella",
+  "version": "1.0.0",
+  "description": "My website",
+  "main": "index.js",
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "author": "Anthony Dellavecchia",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^4.11.0",
+    "atomic-algolia": "^0.3.19",
+    "instantsearch.js": "^4.36.0"
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "type": "module"
+}

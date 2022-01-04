@@ -1,8 +1,10 @@
 ---
 title: "How to Check your Website Users (Minus Yourself)"
 date: 2021-12-04T12:49:27+06:00
+authors: "Anthony Dellavecchia"
 featureImage: images/blog/googleanalytics.png
 postImage: images/blog/googleanalytics.png
+tags: ["analytics"]
 ---
 
 Google Analytics is a web analytics tool that lets you track & report your website's traffic. It shows you information such as how many users have visited your site, what devices they use (mobile or computer), how they found your site (direct url, link from other sites), etc.

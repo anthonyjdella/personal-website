@@ -1,8 +1,10 @@
 ---
 title: "Building This Site"
 date: 2021-09-28T12:49:27+06:00
+authors: "Anthony Dellavecchia"
 featureImage: images/allpost/keyboard.jpg
 postImage: images/allpost/keyboard.jpg
+tags: ["build"]
 ---
 
 This is for my reference, so I remember how to make changes to this site without any hiccups. 
