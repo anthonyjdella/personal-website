@@ -23,7 +23,7 @@ Take a look at the below table. It shows how much downtime (in time) equals a gi
 | 99.9% | 8 hours, 46 minutes |
 | 99.99%    | 52 minutes, 36 seconds |
 | 99.999%    | 5.26 minutes |
-
+|  &nbsp;  |  &nbsp; |
 ### What's this Mean?
 
 If your system should be available at all times, a 99% availability means that your system can have almost 4 days of downtime per year! For a system that needs to be available, that is a terribly long time.
@@ -32,7 +32,7 @@ Imagine if you have a business critical system that fails. If it was down for al
 
 ### What should you aim for?
 
-This depends on your system, and usually a probability or downtime measurement (rather than percentage) should be given. "Five 9's" is a common "standard" that systems try to aim for. **That is 99.999% availability**. Standards is in quotes because it really isn't a standard, it's just what's commonly mentioned in the industry as a goal to achieve.
+This depends on your system, and usually a probability or downtime measurement (rather than percentage) should be given. "Five 9's" is a common "standard" that systems try to aim for. **That is 99.999% availability (hence five 9s)**. Standards is in quotes because it really isn't a standard, it's just what's commonly mentioned in the industry as a goal to achieve.
 
 Check out this [Wikipedia article](https://en.wikipedia.org/wiki/High_availability) for more information. 
 
