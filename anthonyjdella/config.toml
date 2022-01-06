@@ -108,7 +108,7 @@ url = "https://www.buymeacoffee.com/anthonyjdella"
 weight = 10
 [[params.social]]
 icon = "fa-envelope"
-url = "mailto:hireme@anthonydellavecchia.com"
+url = "mailto:hireme@anthonydellavecchia.com?subject=I Want to Hire Anthony!&body=Hey Anthony, I really like your website and would love to hire you."
 weight = 11
 [[params.social]]
 icon = "fa fa-calendar-check-o"
