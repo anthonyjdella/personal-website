@@ -7,7 +7,7 @@ postImage: images/blog/downtime-logo-black.png
 tags: ["devops", "resiliency"]
 ---
 
-If you ever took at test at school, you'd probably be really happy with getting a 99 grade. After all, it's almost a perfect score.
+If you ever took a test at school, you'd probably be really happy with getting a 99 grade. After all, it's almost a perfect score.
 
 But when you're talking about software systems, is 99% availability good?
 
