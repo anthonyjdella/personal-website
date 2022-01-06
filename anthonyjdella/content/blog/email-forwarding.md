@@ -4,7 +4,7 @@ date: 2021-12-30T12:49:27+06:00
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/gmail.png
 postImage: images/blog/gmail.png
-tags: ["domain"]
+tags: ["domain", "how-to"]
 ---
 
 Want to organize your email inbox?

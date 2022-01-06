@@ -4,7 +4,7 @@ date: 2021-12-01T12:49:27+06:00
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/wave-emoji.png
 postImage: images/blog/wave-emoji.png
-tags: ["css", "animation", "front-end"]
+tags: ["css", "animation", "front-end", "how-to"]
 ---
 
 If you go to the home page of [this website](https://anthonydellavecchia.com), you might find some hidden "easter eggs" around the page. One of which is an emoji that is animated using CSS. 👋 is the emoji. It's just a waving hand, that doesn't actually wave. There is no animation, so I wanted to make it move. It's actually pretty easy!

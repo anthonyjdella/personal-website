@@ -1,12 +1,13 @@
 ---
 title: This Website
 date: 2021-09-27T12:49:27.000+06:00
-thumbnail: ../images/portfolio/this-site.png
+featureImage: images/portfolio/this-site.png
 service: Web Development, UX Design
 client: Myself
 shortDescription: This website was built by myself with the help of Hugo, Portio theme, Firebase, and GitHub Pages.
 challenge: I don't have a personal brand which displays my work, thoughts, skills, and experience.
 solution: Create a simple website that showcases my professional skills.
+tags: ["front-end", "webdev", "design"]
 
 ---
 

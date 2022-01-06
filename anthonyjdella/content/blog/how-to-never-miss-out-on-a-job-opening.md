@@ -4,7 +4,7 @@ date: 2018-03-31T12:49:27+06:00
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/laptop3.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: ["web-scraping", "scripting"]
+tags: ["web-scraping", "scripting", "how-to"]
 ---
 
 Have you ever been disappointed to know that you got rejected from a job because you applied too late? They already hired someone else!

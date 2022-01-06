@@ -1,12 +1,13 @@
 ---
 title: JSON Resume
 date: 2021-10-20T12:49:27.000+06:00
-thumbnail: ../images/portfolio/firebase.png
+featureImage: images/portfolio/firebase.png
 service: API, Javascript, Firebase, CI/CD
 client: Myself
 shortDescription: Your Resume in JSON. It's  privately hosted on my Firebase domain.
 challenge: JSON Resume uses their own domain (e.g. http://registry.jsonresume.org/anthonyjdella). In order to use it, you have to use their own 'jsonresume' domain. 
 solution: I didn't want to have to use their domain, so I reverse engineered their project to host it on resume.anthonydellavecchia.com
+tags: ["javascript", "firebase", "json"]
 
 ---
 
