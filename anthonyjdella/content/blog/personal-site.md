@@ -1,6 +1,7 @@
 ---
 title: "Building This Site"
 date: 2021-09-28T12:49:27+06:00
+writtenDate: "September 28, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/keyboard.jpg
 postImage: images/allpost/keyboard.jpg

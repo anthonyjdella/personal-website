@@ -1,6 +1,7 @@
 ---
 title: "Launch Insights"
 date: 2021-12-28T12:49:27+06:00
+writtenDate: "December 28, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/analytics.png
 postImage: images/blog/analytics.png

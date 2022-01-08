@@ -1,6 +1,7 @@
 ---
 title: "Is 99% Good?"
 date: 2022-01-04T12:49:27+06:00
+writtenDate: "January 4, 2022"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/downtime-logo-black.png
 postImage: images/blog/downtime-logo-black.png

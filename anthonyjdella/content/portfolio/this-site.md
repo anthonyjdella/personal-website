@@ -1,6 +1,8 @@
 ---
 title: This Website
 date: 2021-09-27T12:49:27.000+06:00
+writtenDate: "September 27, 2021"
+authors: "Anthony Dellavecchia"
 featureImage: images/portfolio/this-site.png
 service: Web Development, UX Design
 client: Myself

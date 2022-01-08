@@ -1,6 +1,7 @@
 ---
 title: "Magic Numbers"
 date: 2018-04-17T12:49:27+06:00
+writtenDate: "April 17, 2018"
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/magic-numbers.jpg
 postImage: images/single-blog/magic-number.png

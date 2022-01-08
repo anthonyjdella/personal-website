@@ -1,6 +1,8 @@
 ---
 title: Automated Job Search
 date: 2018-03-21T12:49:27.000+06:00
+writtenDate: "March 21, 2018"
+authors: "Anthony Dellavecchia"
 featureImage: images/portfolio/job-search.png
 service: Nodejs, Automation, Web Scraping
 client: Job Seekers

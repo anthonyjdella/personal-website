@@ -1,6 +1,8 @@
 ---
 title: JSON Resume
 date: 2021-10-20T12:49:27.000+06:00
+writtenDate: "October 20, 2021"
+authors: "Anthony Dellavecchia"
 featureImage: images/portfolio/firebase.png
 service: API, Javascript, Firebase, CI/CD
 client: Myself

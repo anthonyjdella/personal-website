@@ -1,6 +1,7 @@
 ---
 title: "How to Forward Emails to Your Domain"
 date: 2021-12-30T12:49:27+06:00
+writtenDate: "December 30, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/gmail.png
 postImage: images/blog/gmail.png

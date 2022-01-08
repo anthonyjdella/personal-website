@@ -1,6 +1,7 @@
 ---
 title: "Hugo Markdown"
 date: 2018-02-01T12:49:27+06:00
+writtenDate: "February 1, 2018"
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/code.jpg
 postImage: images/single-blog/hugo.jpg

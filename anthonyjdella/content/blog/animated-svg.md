@@ -1,6 +1,7 @@
 ---
 title: "Designing an Animated Logo"
 date: 2021-10-25T12:49:27+06:00
+writtenDate: "October 25, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/anthony-logo.svg
 postImage: images/blog/anthony-logo.svg

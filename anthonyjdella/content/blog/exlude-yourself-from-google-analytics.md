@@ -1,6 +1,7 @@
 ---
 title: "How to Check your Website Users (Minus Yourself)"
 date: 2021-12-04T12:49:27+06:00
+writtenDate: "December 4, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/googleanalytics.png
 postImage: images/blog/googleanalytics.png

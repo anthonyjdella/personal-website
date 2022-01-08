@@ -1,6 +1,8 @@
 ---
 title: JSON Resume Themes
 date: 2021-11-01T12:49:27.000+06:00
+writtenDate: "November 1, 2021"
+authors: "Anthony Dellavecchia"
 featureImage: images/portfolio/theme5.png
 service: Front-end, CSS, Web Design
 client: Myself

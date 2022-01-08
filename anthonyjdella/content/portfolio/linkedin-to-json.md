@@ -1,6 +1,8 @@
 ---
 title: LinkedIn to JSON Chrome Extension
 date: 2021-10-10T12:49:27.000+06:00
+writtenDate: "October 10, 2021"
+authors: "Anthony Dellavecchia"
 featureImage: images/portfolio/extension3.png
 service: Chrome Extension, Javascript, JSON
 client: Myself

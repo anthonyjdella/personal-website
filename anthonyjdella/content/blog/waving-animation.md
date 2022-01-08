@@ -1,6 +1,7 @@
 ---
 title: "How to Animate an Emoji with CSS"
 date: 2021-12-01T12:49:27+06:00
+writtenDate: "December 1, 2021"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/wave-emoji.png
 postImage: images/blog/wave-emoji.png

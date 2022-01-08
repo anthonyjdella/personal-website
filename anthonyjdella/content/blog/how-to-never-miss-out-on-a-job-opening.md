@@ -1,6 +1,7 @@
 ---
 title: "How to Never Miss Out on a Job Opening"
 date: 2018-03-31T12:49:27+06:00
+writtenDate: "March 21, 2018"
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/laptop3.jpg
 postImage: images/single-blog/feature-image.jpg
