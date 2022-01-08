@@ -77,3 +77,17 @@ git branch my-temporary-work
 git checkout master
 git merge my-temporary-work
 ```
+
+### Algolia Search for Blog Posts
+
+When creating a new blog post, I need to update my Algolia search index (in JSON).
+To do this,
+
+##### STEP 1:
+- Create a new blog
+
+##### STEP 2:
+- `hugo -t portio`
+
+##### STEP 3:
+- `npm run algolia` which will update the JSON
