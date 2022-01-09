@@ -28,7 +28,7 @@ Hugo can output content into multiple different file formats (like javascript, x
 
 **config.toml**
 
-```
+{{< highlight toml >}}
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
@@ -41,7 +41,7 @@ params = ["tags"]
 
 [outputs]
 home = ["HTML", "Algolia"]
-```
+{{< /highlight >}}
 
 Here, we are creating a custom outputFormat called Algolia, which is of type JSON. We're also giving it some variables which will be used later.
 
@@ -51,7 +51,7 @@ Next, create a file which will generate the JSON search index output. This file 
 
 **search-index.json**
 
-```
+{{< highlight json >}}
 {{- $.Scratch.Add "index" slice -}}
 
 {{- range where .Site.RegularPages ".Type" "blog" -}}
@@ -60,7 +60,7 @@ Next, create a file which will generate the JSON search index output. This file 
 
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
-```
+{{< /highlight >}}
 
 I only want my search to look for blog posts, not every static page. To do this, I loop through my pages with the type "blog". Then, I create a dictionary which contains multiple key/value pairs of the data that I want. For instance, I want the title of my blog posts, so I create a key ("title") and a value (.Title). You can scroll through the code to get an idea of how to scrape other data (like a description, date, etc).
 
@@ -86,10 +86,11 @@ Now that we have our search index file, we need to upload it to Algolia (so we c
 
 Within your `package.json`, add a script called `algolia: atomic-algolia`.
 
-If you run `npm run algolia`, it won't work because Algolia doesn't know which project you're uploading this search index to. To fix this, you'll need to run 
-```
+If you run `npm run algolia`, it won't work because Algolia doesn't know which project you're uploading this search index to. To fix this, you'll need to run:
+
+{{< highlight bash >}}
 ALGOLIA_APP_ID={{ YOUR_APP_ID }} ALGOLIA_ADMIN_KEY={{ YOUR_ADMIN_KEY }} ALGOLIA_INDEX_NAME={{ YOUR_INDEX NAME }} ALGOLIA_INDEX_FILE={{ PATH/TO/algolia.json }} npm run algolia
-```
+{{< /highlight  >}}
 
 Copy the values of your app id, api key, etc into these brackets. Now, when you run that command, you're search index will be uploaded to Algolia! Check the Algolia interface to make sure your data is present in that service. From the UI, you can configure, manage, and view analytics related to your index.
 
@@ -105,12 +106,12 @@ We're going to have to write some Javascript to interact with Algolia API's to i
 
 To embed the modules via a CDN, I used JSDelivr, which is a large CDN for Javascript modules. Then I injected these scripts into my HTML:
 
-```
+{{< highlight html >}}
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.37.1"></script>
 <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.11.0/dist/algoliasearch.umd.min.js"></script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
-```
+{{< /highlight >}}
 
 One of these is for a built-in theme, and the others are the modules to use Algolia search.
 
@@ -120,7 +121,7 @@ Now, create a `search.js` file which will interact with the Algolia API's to con
 
 Start by initializing Search, by entering your index credentials.
 
-```
+{{< highlight js >}}
 const search = instantsearch({
     indexName: 'your-index-name',
     routing: true,
@@ -129,7 +130,7 @@ const search = instantsearch({
         'your-api-key'
     )
 });
-```
+{{< /highlight >}}
 
 #### Display Results
 
@@ -141,7 +142,7 @@ Back in the `search.js` file, we'll need to link that div to Algolia's API.
 
 Algolia is built around widgets, one of which is the Hits widget which displays all of your data results. Configure your Hits widget with the below:
 
-```
+{{< highlight js >}}
 search.addWidget(
     instantsearch.widgets.hits({
         container: '#hits',
@@ -150,7 +151,7 @@ search.addWidget(
         }
     })
 );
-```
+{{< /highlight >}}
 
 The container finds your HTML element which we defined in our HTML above. After it finds it, it will inject the widget into that HTML. 
 
@@ -158,7 +159,7 @@ An empty template field will display whenever the search results are not found.
 
 To display the actual results, we'll need to add an item in our template:
 
-```
+{{< highlight js >}}
 search.addWidget(
     instantsearch.widgets.hits({
         container: '#hits',
@@ -190,7 +191,7 @@ search.addWidget(
         }
     })
 );
-```
+{{< /highlight >}}
 
 Here, I'm looping through all of my pages, then displaying an image for each page, followed by the date that the blog was written, and the title of each blog.
 
@@ -205,7 +206,7 @@ In the HTML file, add the following div:
 
 Back in the `search.js` file, we'll initialize a search box widget:
 
-```
+{{< highlight js >}}
 search.addWidget(
     instantsearch.widgets.searchBox({
         container: '#search-box',
@@ -213,7 +214,7 @@ search.addWidget(
         autofocus: true
     })
 );
-```
+{{< /highlight >}}
 
 Again, the container will look for the HTML element that you enter, and inject that widget into the HTML.
 
@@ -226,14 +227,14 @@ For my site, I also wanted categories/tags so that users can quickly sort an art
 
 Again, we need an empty div in our HTML. So for these, I will add the following in my HTML:
 
-```
+{{< highlight html >}}
 <div id="menu"></div>
 <div id="pagination"></div>
-```
+{{< /highlight >}}
 
 For the categories/tags, you can use a Refinement List widget. But I went with the Menu widget which is pretty similar. Initialize it with:
 
-```
+{{< highlight js >}}
 search.addWidget(
     instantsearch.widgets.menu({
         container: '#menu',
@@ -243,13 +244,13 @@ search.addWidget(
         sortBy: ['count:desc']
     })
 );
-```
+{{< /highlight >}}
 
 Here, we are filtering by tags, which is a data attribute in my search index JSON. I also enabled a "Show More" button that shows all of my tags.
 
 The Pagination widget was added like so:
 
-```
+{{< highlight js >}}
 search.addWidget(
     instantsearch.widgets.pagination({
         container: '#pagination',
@@ -259,7 +260,7 @@ search.addWidget(
         showPrevious: true
     })
 );
-```
+{{< /highlight >}}
 
 #### Customizing Widgets
 
