@@ -8,6 +8,10 @@ postImage: images/blog/algolia.png
 tags: ["javascript", "how-to", "webdev"]
 ---
 
+If you view my [Blog section](https://anthonydellavecchia.com/blog), you'll see a search bar that I've just added.
+
+![Image](/images/blog/search.png)
+
 After writing multiple [blog posts](https://anthonydellavecchia.com/blog), I quickly realized that more pages meant more clutter. If someone wants to find a post, they'd have to manually search for it by digging through each page. Imagine if I have 10 pages, with 6 blog posts per page. Finding an article would be difficult and a bad user experience. Adding a search bar, as well as tag filters, would fix this issue, so I did some research on how to implement this for [my website](https://anthonydellavecchia.com/).
 
 I'm using Hugo as my static site generator and the documentation isn't the best. Their [docs](https://gohugo.io/tools/search/) show multiple options for implementing search, but their explanations are pretty bad. Some options include: using native Javascript, Elasticsearch, lunr.js, etc. But I went with a third-party service, called Algolia, just because I found the documentation to be great.
