@@ -18,7 +18,7 @@ To enable searching on a static site, you need to first create a JSON search ind
 
 ### Getting Started
 
-First thing to do is [sign up for a free](https://www.algolia.com/users/sign_up) Algolia account (since we're using this service). Algolia is nice because they have great documentation, built-in widgets, provides fast results, and is easy to implement.
+The first thing to do is [sign up for a free](https://www.algolia.com/users/sign_up) Algolia account (since we're using this service). Algolia is nice because they have great documentation, built-in widgets, provides fast results, and is easy to implement.
 
 ### Generate JSON Search Index
 
@@ -62,7 +62,7 @@ Next, create a file which will generate the JSON search index output. This file 
 {{- $.Scratch.Get "index" | jsonify -}}
 ```
 
-I only want my search look for blog posts, not every static page. To do this, I loop through my pages with the type "blog". Then, I create a dictionary which contains multiple key/value pairs of the data that I want. For instance, I want the title of my blog posts, so I create a key ("title") and a value (.Title). You can scroll through the code to get an idea of how to scrape other data (like a description, date, etc).
+I only want my search to look for blog posts, not every static page. To do this, I loop through my pages with the type "blog". Then, I create a dictionary which contains multiple key/value pairs of the data that I want. For instance, I want the title of my blog posts, so I create a key ("title") and a value (.Title). You can scroll through the code to get an idea of how to scrape other data (like a description, date, etc).
 
 
 #### Generating the JSON
