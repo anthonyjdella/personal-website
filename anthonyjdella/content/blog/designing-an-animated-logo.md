@@ -1,5 +1,5 @@
 ---
-title: "Designing an Animated Logo"
+title: "Designing an Animated Logo 🎨"
 date: 2021-10-25T12:49:27+06:00
 writtenDate: "October 25, 2021"
 authors: "Anthony Dellavecchia"
@@ -7,6 +7,8 @@ featureImage: images/blog/anthony-logo.svg
 postImage: images/blog/anthony-logo.svg
 tags: ["animation", "design", "how-to"]
 ---
+
+### TLDR: I make an animated logo (think of a .GIF) and explain how you can make one too.
 
 Having an online personal brand is ever so important. Part of this includes having a unified profile picture and logo. You can take this to another level by animating the logo!
 

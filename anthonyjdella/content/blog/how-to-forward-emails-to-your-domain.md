@@ -1,5 +1,5 @@
 ---
-title: "How to Forward Emails to Your Domain"
+title: "How to Forward Emails to Your Domain 📧"
 date: 2021-12-30T12:49:27+06:00
 writtenDate: "December 30, 2021"
 authors: "Anthony Dellavecchia"
@@ -7,6 +7,7 @@ featureImage: images/blog/gmail.png
 postImage: images/blog/gmail.png
 tags: ["domain", "how-to"]
 ---
+### TLDR: Set up Gmail forwarding so it looks like your email address matches your domain name.
 
 Want to organize your email inbox?
 

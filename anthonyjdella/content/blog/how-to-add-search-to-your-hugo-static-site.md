@@ -1,5 +1,5 @@
 ---
-title: "How to Add Search to Your Hugo Static Site"
+title: "How to Add Search to Your Hugo Static Site 🔎"
 date: 2022-01-08T12:49:27+06:00
 writtenDate: "January 8, 2022"
 authors: "Anthony Dellavecchia"
@@ -7,6 +7,8 @@ featureImage: images/blog/algolia.png
 postImage: images/blog/algolia.png
 tags: ["javascript", "how-to", "webdev"]
 ---
+
+### TLDR: Use Algolia to create fast searching of your website's static pages. This tutorial is for sites using Hugo.
 
 If you view my [Blog section](https://anthonydellavecchia.com/blog), you'll see a search bar that I've just added.
 

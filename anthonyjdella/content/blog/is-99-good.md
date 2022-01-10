@@ -1,5 +1,5 @@
 ---
-title: "Is 99% Good?"
+title: "Is 99% Good? 📈"
 date: 2022-01-04T12:49:27+06:00
 writtenDate: "January 4, 2022"
 authors: "Anthony Dellavecchia"
@@ -7,6 +7,8 @@ featureImage: images/blog/downtime-logo-black.png
 postImage: images/blog/downtime-logo-black.png
 tags: ["devops", "resiliency"]
 ---
+
+### TLDR: 99% availability for a software system isn't a good measurement. Instead of using a percentage, use a probability or actual time values.
 
 If you ever took a test at school, you'd probably be really happy with getting a 99 grade. After all, it's almost a perfect score.
 

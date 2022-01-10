@@ -1,5 +1,5 @@
 ---
-title: "How to Never Miss Out on a Job Opening"
+title: "How to Never Miss Out on a Job Opening 🤖"
 date: 2018-03-31T12:49:27+06:00
 writtenDate: "March 21, 2018"
 authors: "Anthony Dellavecchia"
@@ -7,6 +7,8 @@ featureImage: images/allpost/laptop3.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: ["web-scraping", "scripting", "how-to"]
 ---
+
+### TLDR: I explain how you can write an automated script that looks at job postings from companies and emails you the results.
 
 Have you ever been disappointed to know that you got rejected from a job because you applied too late? They already hired someone else!
 
