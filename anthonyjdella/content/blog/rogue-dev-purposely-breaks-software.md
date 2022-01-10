@@ -52,7 +52,7 @@ So what? Well, `Marak`, the creator of `colors` (mentioned above) added some cod
 
 ![Image](/images/blog/infinite-loop.png)
 
-[(link to Marak's evil commit)](https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6)
+[(link to Marak's commit)](https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6)
 
 **This is very much intentional and not an accidental bug. It was malicious.**
 
@@ -66,9 +66,13 @@ You may be wondering why breaking his own software is bad? Well, Marak knows tha
 
 Marak was upset that corporations were using his open-source software and not paying for it. It's basically that simple. He posted an [article on his blog](https://web.archive.org/web/20210628030444/https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic).
 
+#### Who is Right?
+
+Most developers are against Marak and his actions, however some are supportive. GitHub and NPM actually suspended his account for this. Some supporters argue that these corporations have no right, because it's his personal software. What do you think?
+
 #### How Do You Fix It?
 
-If your software was using `colors`, you would have to revert to the previous (non-broken) version. But because of this developer's poor work, you should definitely use another package instead. [Chalk](https://github.com/chalk/chalk) is another alternative that is recommended.
+If your software was using `colors`, you would have to revert to the previous (non-broken) version. But because of this developer's outburst, you should definitely use another package instead. [Chalk](https://github.com/chalk/chalk) is another alternative that is recommended.
 
 It's really important to have a dependency management system in place for your projects. Tools like [Snyk](https://snyk.io/), or [SonarQube](https://www.sonarqube.org/) will help you detect dependency issues so you can quickly resolve them.
 
