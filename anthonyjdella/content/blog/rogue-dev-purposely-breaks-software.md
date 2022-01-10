@@ -76,6 +76,18 @@ If your software was using `colors`, you would have to revert to the previous (n
 
 It's really important to have a dependency management system in place for your projects. Tools like [Snyk](https://snyk.io/), or [SonarQube](https://www.sonarqube.org/) will help you detect dependency issues so you can quickly resolve them.
 
+#### Future Effects
+
+This might have a big impact on Open Source Software (OSS) and software licensing. Marak's code was licensed with the infamous MIT license, so it's free for commercial use. In the future, will developers be more hesitant to use this license? For example, if you license your software as fair code, it is open source (so others can use it for free) but prevents commercial usage. This seems like the best of both worlds.
+
+Some Fair Code Licenses include:
+
+1. Commons Clause
+2. Confluent Community License
+3. Server Side Public License (SSPL)
+
+**Will fair code replace Open Source?**
+
 **For more information:**
 - https://snyk.io/blog/open-source-maintainer-pulls-the-plug-on-npm-packages-colors-and-faker-now-what/
 - https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/
