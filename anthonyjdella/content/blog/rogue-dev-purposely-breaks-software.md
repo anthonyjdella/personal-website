@@ -66,8 +66,6 @@ You may be wondering why breaking his own software is bad? Well, Marak knows tha
 
 Marak was upset that corporations were using his open-source software and not paying for it. It's basically that simple. He posted an [article on his blog](https://web.archive.org/web/20210628030444/https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic).
 
-If you view my [Blog section](https://anthonydellavecchia.com/blog), you'll see a search bar that I've just added.
-
 #### How Do You Fix It?
 
 If your software was using `colors`, you would have to revert to the previous (non-broken) version. But because of this developer's poor work, you should definitely use another package instead. [Chalk](https://github.com/chalk/chalk) is another alternative that is recommended.
