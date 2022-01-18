@@ -8,11 +8,11 @@ postImage: images/blog/analytics.png
 tags: ["analytics"]
 ---
 
-### TLDR: Just some analytics about my website users after I shared it on LinkedIn and other social media sites.
+> **TLDR:** Just some analytics about my website users after I shared it on LinkedIn and other social media sites.
 
 After working on this website for weeks, on December 20th, I shared the finished product on social media platforms (like LinkedIn). I expected people to view the site, but wasn't sure about the number of users, how engaged they'd be, etc. Since I've Google Analytics built-in, I was curious to get insights from the tool and gather information from that data. Sure, I could do this analysis by myself, but why would I? Google Analytics is a free tool which does all the hard work for me. All I had to do was set it up and include it into my website.
 
-### Take a Look at the Data
+## Take a Look at the Data
 
 ![Image](/images/blog/analytics.png)
 
@@ -22,12 +22,12 @@ What I found interesting was that on LinkedIn, around 1,000 people viewed my pos
 
 ![Image](/images/blog/linkedin-stats.png)
 
-##### So, the first important thing to note: by sharing a post on LinkedIn, my CTR was much higher than average!
+> So, the first important thing to note: by sharing a post on LinkedIn, my CTR was much higher than average!
 
 
 ---
 
-### Where my Users Came From
+## Where my Users Came From
 
 It wasn't surprising that most of my users visited from cities near me (in the Dallas area).
 
@@ -38,7 +38,7 @@ Another cool thing to see was from which countries and areas my users visited fr
 ![Image](/images/blog/countries.png)
 
 
-### Engagement 
+## Engagement 
 
 Unsurprisingly, the most visited page was my home page. What did surprise me about the data was that my Portfolio project for [JSON Resume Themes](https://anthonydellavecchia.com/portfolio/themes/) had more engagement than my [About Me](https://anthonydellavecchia.com/about/) section.
 
@@ -51,7 +51,7 @@ By adding more "fun" animations or user interactions, I may be able to increase 
 ![Image](/images/blog/events.png)
 
 
-### Devices
+## Devices
 
 This section was most surprising to me. Most of my visitors came via mobile devices rather than from desktops! Good thing I went with a "mobile-first" design approach instead of a "desktop-first" approach. In Web Development, it's actually recommended to do this because its easier to develop, and now I can see that users are more mobile prone.
 
@@ -67,8 +67,8 @@ Browser compatibility was a big deal for me when designing this site. I actually
 
 ---
 
-### Conclusion
+## Conclusion
 
 Google Analytics is a really awesome tool to get insights from users of your website. It was informative and fun to see how my users interact with my site. I treat [AnthonyDellavecchia.com](https://www.anthonydellavecchia.com) as a product and feel like I had a very successful product launch!
 
-Thanks for reading!
+---

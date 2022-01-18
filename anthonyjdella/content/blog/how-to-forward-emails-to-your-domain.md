@@ -7,7 +7,7 @@ featureImage: images/blog/gmail.png
 postImage: images/blog/gmail.png
 tags: ["domain", "how-to"]
 ---
-### TLDR: Set up Gmail forwarding so it looks like your email address matches your domain name.
+> **TLDR:** Set up Gmail forwarding so it looks like your email address matches your domain name.
 
 Want to organize your email inbox?
 
@@ -23,7 +23,7 @@ For example, these are my different email addresses:
 4. photo@anthonydellavecchia.com - photography
 5. design@anthonydellavecchia.com - design
 
-### What's the Point?
+## What's the Point?
 
 Everything is 
 * Organized
@@ -31,7 +31,7 @@ Everything is
 * Exposed to the respective audience! 
 
 
-### Use Cases
+## Use Cases
 
 So, if I have a photography job, I can tell my client to email me at photo@anthonydellavecchia.com, or if I'm looking for a job, I can ask companies to email me at hireme@anthonydellavecchia.com. Then, those emails are nicely organized in Gmail.
 
@@ -109,7 +109,7 @@ Next, log into your existing Gmail account, in this example it's anthonyjdella.p
 
 ---
 
-#### Now your email alias is set up! You can add a filter and label in the next steps!
+> Now your email alias is set up! You can add a filter and label in the next steps!
 
 ### Step 1
 - Back in Gmail settings, click the Filters and `Blocked Addresses` tab
@@ -126,4 +126,4 @@ Next, log into your existing Gmail account, in this example it's anthonyjdella.p
 
 Now, you have successfully routed emails to various email address and organized them! For more info, watch this [video](https://youtu.be/RbT28X0wiRw).
 
-Thanks for reading!
+---

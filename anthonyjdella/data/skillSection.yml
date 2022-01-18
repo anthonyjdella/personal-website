@@ -10,12 +10,20 @@ imageOnMouseOver: images/skill/me-green.jpg
 
 skill:
   - title: Data Structures
-    percent: 80
+    percent: 70
   - title: Algorithms
-    percent: 70
+    percent: 60
   - title: System Design
-    percent: 70
-  - title: Python3
-    percent: 70
-  - title: Java
     percent: 80
+  - title: Python & Django
+    percent: 70
+  - title: Java & Spring Boot
+    percent: 80
+  - title: Javascript & Node.js
+    percent: 50
+  - title: HTML & CSS
+    percent: 50
+  - title: PostgreSQL & MongoDB
+    percent: 50
+  - title: CI/CD
+    percent: 70

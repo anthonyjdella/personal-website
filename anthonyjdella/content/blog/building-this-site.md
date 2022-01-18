@@ -8,7 +8,7 @@ postImage: images/allpost/keyboard.jpg
 tags: ["build"]
 ---
 
-### TLDR: These are the commands I use to build this website.
+> **TLDR:** These are the commands I use to build this website.
 
 This is for my reference, so I remember how to make changes to this site without any hiccups. 
 
@@ -25,10 +25,10 @@ This is for my reference, so I remember how to make changes to this site without
 10. GitHub Actions will pick up changes made to the master branch and deploy to `anthonydellavecchia.com`, which is hosted on Firebase.
 
 
-### CI/CD Error Fix
+## CI/CD Error Fix
 
 
-##### STEP 1:
+### STEP 1:
 If you get the following CI/CD error:
 
 ```
@@ -41,7 +41,7 @@ fatal:
 ```
 
 
-##### STEP 2:
+### STEP 2:
 Go into anthonyjdella/ and run:
 
 ```
@@ -49,7 +49,7 @@ git submodule  update --init --recursive --remote
 ```
 
 
-##### STEP 3:
+### STEP 3:
 cd public/ then
 git status
 
@@ -58,7 +58,7 @@ Message will show that the HEAD is detached:
 HEAD detached at 1b2926f
 ```
 
-##### STEP 4:
+### STEP 4:
 Go back into anthonyjdella/ by
 cd ..
 
@@ -70,7 +70,7 @@ hugo -t portio
 
 cd public/
 
-##### STEP 5:
+### STEP 5:
 You'll see changes now. Then add and commit them.
 
 ```
@@ -80,16 +80,16 @@ git checkout master
 git merge my-temporary-work
 ```
 
-### Algolia Search for Blog Posts
+## Algolia Search for Blog Posts
 
 When creating a new blog post, I need to update my Algolia search index (in JSON).
 To do this,
 
-##### STEP 1:
+### STEP 1:
 - Create a new blog
 
-##### STEP 2:
+### STEP 2:
 - `hugo -t portio`
 
-##### STEP 3:
+### STEP 3:
 - `npm run algolia` which will update the JSON

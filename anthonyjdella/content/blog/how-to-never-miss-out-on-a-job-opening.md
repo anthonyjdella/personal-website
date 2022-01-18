@@ -5,10 +5,10 @@ writtenDate: "March 21, 2018"
 authors: "Anthony Dellavecchia"
 featureImage: images/allpost/laptop3.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: ["web-scraping", "scripting", "how-to"]
+tags: ["web-scraping", "scripting", "javascript", "nodejs", "how-to"]
 ---
 
-### TLDR: I explain how you can write an automated script that looks at job postings from companies and emails you the results.
+> **TLDR:** I explain how you can write an automated script that looks at job postings from companies and emails you the results.
 
 Have you ever been disappointed to know that you got rejected from a job because you applied too late? They already hired someone else!
 
@@ -25,7 +25,7 @@ This will be written in Node.js, and will use the following external APIs: Puppe
 
 ![Image](/images/single-blog/nodejs.png)
 
-#### To view the code on GitHub, visit : [here](https://github.com/anthonyjdella/automated-job-web-scraping)
+> To view the code on GitHub, visit : [here](https://github.com/anthonyjdella/automated-job-web-scraping)
 
 ## Setup:
 
@@ -421,9 +421,11 @@ _Text file which lists all the jobs as well as the console._
 
 3. __Check your email__. You should have received a message with an attachment containing all of the scraped jobs.
 
-#### To view the code on GitHub, visit : [here](https://github.com/anthonyjdella/automated-job-web-scraping)
+> To view the code on GitHub, visit : [here](https://github.com/anthonyjdella/automated-job-web-scraping)
 
 Thanks:
 
 I hope you liked this guide. Please give it a like & follow if you learned something new!
 [This guide](https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e) by @emadehsan was very useful and helped me when I was stuck. View his source code [here](https://github.com/emadehsan/thal).
+
+---

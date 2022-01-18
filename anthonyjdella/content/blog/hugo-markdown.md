@@ -8,7 +8,7 @@ postImage: images/single-blog/hugo.jpg
 tags: ["markdown"]
 ---
 
-### TLDR: Just some markdown and what it looks like on this site.
+> **TLDR:** Just some markdown and what it looks like on this site.
 
 This is a collection of markdown examples, which also work with Hugo. (For my reference when adding markdown to future blog posts.)
 

@@ -5,7 +5,7 @@ uglyurls = false
 
 paginate = 6
 theme = "portio"
-title = "Anthony Dellavecchia the Software Engineer"
+title = "Anthony Dellavecchia"
 
 # Main Menu
 [[menu.main]]
@@ -45,6 +45,7 @@ footerLogo = "images/contact/avatar.png"
 formspreeURL = "https://formspree.io/f/mvodlbrv"
 googleAnalytics = "G-X3SHCY6M34"
 logo = "images/contact/avatar.png"
+biggerLogo = "images/contact/avatar2.png"
 bubbleImg = "images/contact/bubble.png"
 search = true
 search_minify = false

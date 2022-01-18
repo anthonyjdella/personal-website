@@ -8,13 +8,13 @@ postImage: images/single-blog/magic-number.png
 tags: ["best-practices"]
 ---
 
-### TLDR: A software development principle to follow with an example.
+> *TLDR:* A software development principle to follow with an example.
 
 Today, I got feedback from a code review and learned something new. It was about ["magic numbers"](https://en.wikipedia.org/wiki/Magic_number_(programming)), which are unique values with unexplained meaning or multiple occurrences which could (preferably) be replaced with named constants.
 
 I've known about the concept of using constants rather than hard-coding values, but I didn't think of that for "magic number" situations. It's a pretty simple concept but I just wanted to share what I learned.
 
-### Magic Numbers are Bad
+## Magic Numbers are Bad
 
 Magic numbers are language agnostic, but below, you'll see a code snippet in Java WITH magic numbers (the bad way).
 
@@ -33,7 +33,7 @@ splitString[7] refers to the 8th element, or 123 Parker Road, which is a Home Ad
 
 splitString[8] refers to the 9th element, or cityline@gmail.com, which is an Email Address
 
-### Why is that bad? We’ll it’s not easy to read.
+## Why is that bad? We’ll it’s not easy to read.
 
 splitString[n], where n is a number, may not mean anything from an outsider looking at your code. The numbers 7 & 8 have no meaning!
 
@@ -58,8 +58,9 @@ I’ve created a constants class, with some constants (HOME_ADDRESS = 7 and EMAI
 
 Constants.HOME_ADDRESS & Constants.EMAIL_ADDRESS are much easier to understand and now have meaning!
 
-### If you aren’t convinced, what’s easier to read:
+## If you aren’t convinced, what’s easier to read:
 splitString[Constants.HOME_ADDRESS] or splitString[7]?
 
-Again, this is just ONE example of magic numbers but there are many more. Thanks for reading!
+Again, this is just ONE example of magic numbers but there are many more. 
 
+---

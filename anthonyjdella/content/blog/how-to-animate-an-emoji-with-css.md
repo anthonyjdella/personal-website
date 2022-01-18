@@ -8,11 +8,11 @@ postImage: images/blog/wave-emoji.png
 tags: ["css", "animation", "front-end", "how-to"]
 ---
 
-### TLDR: You can animate an Emoji (or anything else) by using keyframes in CSS.
+> **TLDR:** You can animate an Emoji (or anything else) by using keyframes in CSS.
 
 If you go to the home page of [this website](https://anthonydellavecchia.com), you might find some hidden "easter eggs" around the page. One of which is an emoji that is animated using CSS. 👋 is the emoji. It's just a waving hand, that doesn't actually wave. There is no animation, so I wanted to make it move. It's actually pretty easy!
 
-### Step 1: Create HTML
+## Step 1: Create HTML
 
 {{< highlight html >}}
     <div class="waving" data-hover="👋">
@@ -22,7 +22,7 @@ If you go to the home page of [this website](https://anthonydellavecchia.com), y
 
 All I've done here is create a simple div with the text, "Hi". Then I've given it 2 HTML attributes, `class` and `data-hover`. The contents within `data-hover` ( 👋 ) is what will be animated.
 
-### Step 2: Create CSS
+## Step 2: Create CSS
 
 {{< highlight css >}}
 
@@ -72,3 +72,5 @@ All I've done here is create a simple div with the text, "Hi". Then I've given i
 `@keyframes wave-animation` is where we create the actual animation. In this case, I wanted to make the hand wave, so to do this I just want the hand to rotate back and forth. I add different keyframes and tell it to rotate a certain number of degrees in certain intervals. This mimics 👋 actually waving!
 
 You can apply this basic template to any emoji. Be creative! For example, you can try to animate a rocket 🚀 using CSS. Just think of what type of animation you want it to do (possibly translate up and down).
+
+---
