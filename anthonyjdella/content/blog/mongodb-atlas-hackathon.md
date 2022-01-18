@@ -1,7 +1,7 @@
 ---
 title: "MongoDB Atlas Hackathon"
-date: 2022-01-16T12:00:27+06:00
-writtenDate: "January 16, 2022"
+date: 2022-01-17T12:00:27+06:00
+writtenDate: "January 17, 2022"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/atlas.png
 postImage: images/blog/atlas.png
@@ -56,7 +56,7 @@ Although I didn't complete my idea, I still learned a lot and wanted to share th
 
 ### Virtual Environments in Python
 
-Before install Django, its good to understand `venv`, a virtual environment for Python. `venv` is a self-contained directory that has the Python installation plus external packages. Think of it as any other virtual environment. They should **NOT** be committed to your repo (you can put it outside the directory or just add it to `.gitignore`)!
+Before installing Django, its good to understand `venv`, a virtual environment for Python. `venv` is a self-contained directory that has the Python installation plus external packages. Think of it as any other virtual environment. They should **NOT** be committed to your repo (you can put it outside the directory or just add it to `.gitignore`)!
 
 Create a `venv` with:
 
