@@ -80,7 +80,7 @@ You can beautify this file and verify that all of the data is correctly collecte
 
 ## Set up Algolia
 
-Now, you can head over to the ALgolia interface to create a New Application (using the free plan). Then, within that New Application, create a New Index.
+Now, you can head over to the Algolia interface to create a New Application (using the free plan). Then, within that New Application, create a New Index.
 
 You'll have to jot down the Application ID, API key, and Index Name.
 
@@ -99,6 +99,8 @@ ALGOLIA_APP_ID={{ YOUR_APP_ID }} ALGOLIA_ADMIN_KEY={{ YOUR_ADMIN_KEY }} ALGOLIA_
 {{< /highlight  >}}
 
 Copy the values of your app id, api key, etc into these brackets. Now, when you run that command, you're search index will be uploaded to Algolia! Check the Algolia interface to make sure your data is present in that service. From the UI, you can configure, manage, and view analytics related to your index.
+
+**NOTE:** I've stored my keys in a .env file, for security reasons. You shouldn't commit this to Git, so if you're doing this on a new computer, you'll need to add another .env file to your root folder.
 
 ![Image](/images/blog/algolia-ui.png)
 
