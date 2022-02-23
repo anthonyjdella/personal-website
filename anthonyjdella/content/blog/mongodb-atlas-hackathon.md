@@ -61,7 +61,7 @@ Before installing Django, its good to understand `venv`, a virtual environment f
 Create a `venv` with:
 
 {{< highlight shell >}}
-python3 -m venv name-of-virtual-env-directory
+python3 -m venv .name-of-virtual-env-directory
 {{< /highlight >}}
 
 This will create the `name-of-virtual-env-directory` as well as the Python installation and any packages your project needs.
@@ -69,13 +69,13 @@ This will create the `name-of-virtual-env-directory` as well as the Python insta
 A best practice for handling virtual environments is to store them all in the same place. So, you might want to store them in your home directory or wherever your Git repos are stored. i.e.:
 
 {{< highlight shell >}}
-python3 -m venv ~/.virtualenvs/project-virtual-env
+python3 -m venv ~/.virtualenvs/.project-virtual-env
 {{< /highlight >}}
 
 After that, you can activate the virtual environment with:
 
 {{< highlight shell >}}
-source ~./virtualenvs/project-virtual-env/bin/activate
+source ~./virtualenvs/.project-virtual-env/bin/activate
 {{< /highlight >}}
 
 Anytime you install a package with `pip`, it will be installed in the active virtual environment you're in. 
