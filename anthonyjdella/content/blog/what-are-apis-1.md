@@ -1,5 +1,5 @@
 ---
-title: "What are APIs?"
+title: "What are APIs (Part 1)?"
 date: 2022-02-09T12:00:27+06:00
 writtenDate: "February 09, 2022"
 authors: "Anthony Dellavecchia"
@@ -8,7 +8,7 @@ postImage: images/blog/what-are-apis.png
 tags: ["api","back-end", "front-end"]
 ---
 
-> **TLDR:** APIs are when software talks to each other. One software sends a request, another software sends back what they asked for.
+> **TLDR:** APIs are when applications talks to each other. One application sends a request, another applications sends back what they asked for.
 
 ---
 
