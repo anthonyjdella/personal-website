@@ -15,10 +15,16 @@ tab2Target: experience
 
 education:
   - content: >
+      #### Twilio
+
+      Staff Developer Evangelist
+    time: 2022-present
+    image: images/resume/twilio.svg
+  - content: >
       #### State Farm
 
       Software Engineer
-    time: 2018-present
+    time: 2018-2022
     image: images/resume/sf.png
   - content: >
       #### Bank of America
