@@ -52,7 +52,7 @@ search_minify = false
 disqusShortname = 'anthonydellavecchia-1'
 
 [params.address]
-address = "Dallas, Texas, USA"
+address = "Seattle, Washington, USA"
 email = "hireme@anthonydellavecchia.com"
 openingHours = """
 Mon-Thu 
@@ -62,8 +62,8 @@ phone = "(940) 242 1288"
 
 [params.map]
 APIkey = "AIzaSyDGIkGQZO9Pz2MpLwaKKS1yq_7LXZQPd3Q"
-latitude = "32.965557"
-longitude = "-96.715836"
+latitude = "47.625419348957216"
+longitude = "-122.32168684385314"
 pinImage = "images/pin.png"
 
 # Social icons
