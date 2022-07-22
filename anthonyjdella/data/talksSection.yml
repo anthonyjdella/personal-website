@@ -1,0 +1,88 @@
+---
+enable: true
+topTitle: Talks
+title: >
+  ## Public Speaking
+
+  You may have seen me at a conference or event. Here are some that I've given workshops at, spoken at, and attended.
+
+tab1Name: Talks
+tab2Name: Workshops
+tab3Name: Booths
+tab1Target: talks
+tab2Target: workshop
+tab3Target: booths
+
+talks:
+  - content: >
+      #### [Seattle Meetup](https://www.meetup.com/twilio-seattle/events/287291753/)
+
+      Learning to Code? Let's Send Text Messages by Writing Code\
+
+      Seattle, WA
+    time: August 18, 2022
+    image: images/talks/meetup.png
+  - content: >
+      #### [API Days NYC](https://www.apidays.global/new-york/)
+
+      Gaining Trust in APIs and What to Look For\
+
+      New York City, NY
+    time: July 28, 2022
+    image: images/talks/apidays.png
+workshop:
+  - content: >
+      #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
+
+      TBD\
+
+      Austin, TX
+    time: September 28, 2022
+    image: images/talks/spiceworld.png
+  - content: >
+      #### [API Days NYC](https://www.apidays.global/new-york/)
+
+      Lets Live Code an App that Texts Us NBA News\
+
+      New York City, NY
+    time: July 28, 2022
+    image: images/talks/apidays.png
+  - content: >
+      #### [Transform Together](https://www.twilioengageeverywhere.com/chicago/home)
+
+      Mars Rover Emails with Twilio Sendgrid\
+
+      Chicago, IL
+    time: June 16, 2022
+    image: images/talks/twilio.svg
+booths:
+  - content: >
+      #### [SpringOne](https://springone.io/)
+
+      San Francisco, CA
+    time: December 6, 2022
+    image: images/talks/springone.png
+  - content: >
+      #### [QCon](https://qconsf.com/)
+
+      San Francisco, CA
+    time: October 24, 2022
+    image: images/talks/qcon.png
+  - content: >
+      #### [DjangoCon](https://2022.djangocon.us/)
+
+      San Diego, CA
+    time: October 16, 2022
+    image: images/talks/djangocon.png
+  - content: >
+      #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
+
+      Austin, TX
+    time: September 28, 2022
+    image: images/talks/spiceworld.png
+  - content: >
+      #### [API Days NYC](https://www.apidays.global/new-york/)
+
+      New York City, NY
+    time: July 28, 2022
+    image: images/talks/apidays.png

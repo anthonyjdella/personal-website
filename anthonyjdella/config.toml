@@ -19,19 +19,24 @@ url = "about"
 weight = 2
 
 [[menu.main]]
+name = "Talks"
+url = "talks"
+weight = 3
+
+[[menu.main]]
 name = "Blog"
 url = "blog"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Portfolio"
 url = "portfolio"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 6
 
 [params]
 homeURL = "https://anthonydellavecchia.com/#home"
@@ -39,6 +44,7 @@ aboutPageURL = "about"
 blogPageURL = "blog"
 contactLink = "contact"
 homePageURL = "home"
+talkPageURL = "talks"
 workPageURL = "portfolio"
 copyright = "• Made with ❤️, Hugo, & Firebase by Anthony Dellavecchia"
 footerLogo = "images/contact/Flat-Avatar-2022.svg"

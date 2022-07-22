@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: Videos, Livestream, Podcast
+title: >
+  ## Media
+  
+  You may have also seen me virtually, whether it be from a video, livestream, or podcast. Check them out!
+video:
+  - content: >
+      #### Youtube
+      
+      Coming Soon...
+      <!-- {{< youtubepl id="PLZ--yRVOz55g6Lip_UWGxAp6EkIfxClvt" >}} -->
+    image: images/video/youtube.png
+  - content: >
+      #### Podcast
+      
+      Coming Soon...
+    image: images/video/podcast.png
+  - content: >
+      #### Livestream
+
+      Coming Soon...
+    image: images/video/twitch.png
