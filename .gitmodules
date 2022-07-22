@@ -4,5 +4,5 @@
 	branch = main
 [submodule "anthonyjdella/themes/portio"]
 	path = anthonyjdella/themes/portio
-	url = git@github.com:anthonyjdella/portio-hugo.git
+	url = git@github.com:anthonyjdella/customized-portio-hugo.git
 	branch = master
