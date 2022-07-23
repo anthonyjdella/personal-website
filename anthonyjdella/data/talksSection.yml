@@ -81,6 +81,12 @@ booths:
     time: September 28, 2022
     image: images/talks/spiceworld.png
   - content: >
+      #### [KCDC](https://www.kcdc.info/)
+
+      Kansas City, MO
+    time: August 8, 2022
+    image: images/talks/kcdc.png
+  - content: >
       #### [API Days NYC](https://www.apidays.global/new-york/)
 
       New York City, NY
