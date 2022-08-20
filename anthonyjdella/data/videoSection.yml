@@ -9,12 +9,12 @@ video:
   - content: >
       #### Live Code an App that Texts NBA News
 
-      {{< youtube id="LnfYf6baTQs" >}}
+      {{< yt LnfYf6baTQs >}}
     image: images/video/youtube.png
   - content: >
-      #### Gaining Trust in APIs
+      #### Gaining Trust in APIs and What to Look For
 
-      {{< youtube id "elgcCqnNeEs" >}}
+      {{< yt elgcCqnNeEs >}}
     image: images/video/youtube.png
   - content: >
       #### Youtube Channel
