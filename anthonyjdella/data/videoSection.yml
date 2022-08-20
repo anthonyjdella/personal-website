@@ -7,7 +7,17 @@ title: >
   You may have also seen me virtually, whether it be from a video, livestream, or podcast. Check them out!
 video:
   - content: >
-      #### Youtube
+      #### Live Code an App that Texts NBA News
+
+      {{< youtube id="LnfYf6baTQs" >}}
+    image: images/video/youtube.png
+  - content: >
+      #### Gaining Trust in APIs
+
+      {{< youtube id "elgcCqnNeEs" >}}
+    image: images/video/youtube.png
+  - content: >
+      #### Youtube Channel
       
       Coming Soon...
       <!-- {{< youtubepl id="PLZ--yRVOz55g6Lip_UWGxAp6EkIfxClvt" >}} -->
