@@ -34,11 +34,19 @@ workshop:
   - content: >
       #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
 
-      TBD\
+      Summarize Text from Images Using AI, Python, and Twilio\
 
       Austin, TX
     time: September 28, 2022
     image: images/talks/spiceworld.png
+  - content: >
+      #### [UPenn](https://2022f.pennapps.com/)
+
+      Summarize Text from Images Using AI, Python, and Twilio\
+
+      Philadelphia, PA
+    time: September 3, 2022
+    image: images/talks/upenn.png
   - content: >
       #### [API Days NYC](https://www.apidays.global/new-york/)
 
