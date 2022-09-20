@@ -5,7 +5,7 @@ writtenDate: "July 21, 2022"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/f5-phone.png
 postImage: images/blog/f5-phone.png
-tags: ["api","twilio", "how-to"]
+tags: ["api","twilio", "how-to", "python"]
 ---
 
 > **TLDR:** This is a tutorial on how to build a Python app that will text you NBA news.

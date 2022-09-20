@@ -8,10 +8,10 @@ title: >
 
 tab1Name: Talks
 tab2Name: Workshops
-tab3Name: Booths
+tab3Name: Conferences
 tab1Target: talks
 tab2Target: workshop
-tab3Target: booths
+tab3Target: conferences
 
 talks:
   - content: >
@@ -63,7 +63,7 @@ workshop:
       Chicago, IL
     time: June 16, 2022
     image: images/talks/twilio.svg
-booths:
+conferences:
   - content: >
       #### [SpringOne](https://springone.io/)
 
