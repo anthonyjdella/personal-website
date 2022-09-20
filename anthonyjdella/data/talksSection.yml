@@ -4,7 +4,7 @@ topTitle: Talks
 title: >
   ## Public Speaking
 
-  You may have seen me at the following conference or event.
+  My goal is to inspire and empower thousands of software developers around the world. You may have seen me at the following tech conference or event.
 
 tab1Name: Talks
 tab2Name: Workshops
@@ -40,7 +40,7 @@ workshop:
     time: September 28, 2022
     image: images/talks/spiceworld.png
   - content: >
-      #### [UPenn](https://2022f.pennapps.com/)
+      #### [University of Pennsylvania](https://2022f.pennapps.com/)
 
       Summarize Text from Images Using AI, Python, and Twilio\
 
@@ -70,12 +70,6 @@ conferences:
       San Francisco, CA
     time: December 6, 2022
     image: images/talks/springone.png
-  - content: >
-      #### [QCon](https://qconsf.com/)
-
-      San Francisco, CA
-    time: October 24, 2022
-    image: images/talks/qcon.png
   - content: >
       #### [DjangoCon](https://2022.djangocon.us/)
 
