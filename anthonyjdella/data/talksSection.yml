@@ -15,6 +15,14 @@ tab3Target: conferences
 
 talks:
   - content: >
+      #### [Seattle Halloween Meetup](https://www.meetup.com/twilio-seattle/)
+
+      Do You Like Scary Movies? Let's Build Halloween Apps Together\
+
+      Seattle, WA
+    time: October 24, 2022
+    image: images/talks/halloween-meetup.png
+  - content: >
       #### [Seattle Meetup](https://www.meetup.com/twilio-seattle/events/287291753/)
 
       Learning to Code? Let's Send Text Messages by Writing Code\
