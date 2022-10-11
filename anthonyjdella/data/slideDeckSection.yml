@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: Presentations
+title: >
+  ## Slide Decks
+testimonial:
+  - link: View my slides
+    description: My slides are publicly available on Notist, my public speaking portfolio.
+    site: on Notist
+    image: images/service/slideDeck.png
