@@ -15,6 +15,22 @@ tab3Target: conferences
 
 talks:
   - content: >
+      #### [University of Virginia](https://www.hoohacks.io/)
+
+      TBD\
+
+      Charlottesville, VA
+    time: March 25, 2023
+    image: images/talks/uva.jpg
+  - content: >
+      #### [Brown University](https://2023.hackatbrown.org/)
+
+      TBD\
+
+      Providence, RI
+    time: January 29, 2023
+    image: images/talks/brown.png
+  - content: >
       #### [Seattle Halloween Meetup](https://www.meetup.com/twilio-seattle/)
 
       Do You Like Scary Movies? Let's Build Halloween Apps Together\
@@ -39,6 +55,22 @@ talks:
     time: July 28, 2022
     image: images/talks/apidays.png
 workshop:
+  - content: >
+      #### [University of Virginia](https://www.hoohacks.io/)
+
+      TBD\
+
+      Charlottesville, VA
+    time: March 25, 2023
+    image: images/talks/uva.jpg
+  - content: >
+      #### [Brown University](https://2023.hackatbrown.org/)
+
+      TBD\
+
+      Providence, RI
+    time: January 29, 2023
+    image: images/talks/brown.png
   - content: >
       #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
 
@@ -72,12 +104,6 @@ workshop:
     time: June 16, 2022
     image: images/talks/twilio.svg
 conferences:
-  - content: >
-      #### [SpringOne](https://springone.io/)
-
-      San Francisco, CA
-    time: December 6, 2022
-    image: images/talks/springone.png
   - content: >
       #### [DjangoCon](https://2022.djangocon.us/)
 
