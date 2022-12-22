@@ -1,7 +1,7 @@
 ---
 title: "Use Your Fingerprint with 1Password to Authenticate the Twilio CLI"
 date: 2022-12-07T12:00:27+06:00
-writtenDate: "December 0, 2022"
+writtenDate: "December 07, 2022"
 authors: "Anthony Dellavecchia"
 featureImage: images/blog/1password-1.png
 postImage: images/blog/1password-1.png

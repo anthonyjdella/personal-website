@@ -31,6 +31,14 @@ talks:
     time: January 29, 2023
     image: images/talks/brown.png
   - content: >
+      #### [Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
+
+      [Let’s talk about our favorite terminal tools](https://stackoverflow.blog/2022/12/20/lets-talk-about-our-favorite-terminal-tools/)\
+
+      Online
+    time: December 20, 2022
+    image: images/talks/halloween-meetup.png
+  - content: >
       #### [Seattle Halloween Meetup](https://www.meetup.com/twilio-seattle/)
 
       [Do You Like Scary Movies? Let's Build Halloween Apps Together](https://noti.st/anthonyjdella/YEMatV/do-you-like-scary-movies)\

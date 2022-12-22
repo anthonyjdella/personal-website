@@ -7,6 +7,11 @@ title: >
   You may have also seen me virtually, whether it be from a video, livestream, or podcast. Check them out!
 video:
   - content: >
+      #### Stack Overflow Podcast
+
+      Coming Soon...
+    image: images/video/podcast.png
+  - content: >
       #### Live Code an App that Texts NBA News
 
       {{< yt LnfYf6baTQs >}}
