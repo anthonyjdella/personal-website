@@ -9,7 +9,7 @@ video:
   - content: >
       #### Stack Overflow Podcast
 
-      Coming Soon...
+      {{< spotify 56LbtbOKVjRbqLFuRVH3aS >}}
     image: images/video/podcast.png
   - content: >
       #### Live Code an App that Texts NBA News
