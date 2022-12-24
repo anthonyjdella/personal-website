@@ -12,6 +12,11 @@ video:
       {{< twitch >}}
     image: images/video/twitch.png
   - content: >
+      #### Twitch Clips
+
+      {{< twitch-collection qPTNKEibMxfivw>}}
+    image: images/video/twitch.png
+  - content: >
       #### Stack Overflow Podcast
 
       {{< spotify 56LbtbOKVjRbqLFuRVH3aS >}}
