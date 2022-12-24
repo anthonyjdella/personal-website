@@ -7,6 +7,11 @@ title: >
   You may have also seen me virtually, whether it be from a video, livestream, or podcast. Check them out!
 video:
   - content: >
+      #### Twitch Livestream
+
+      {{< twitch >}}
+    image: images/video/twitch.png
+  - content: >
       #### Stack Overflow Podcast
 
       {{< spotify 56LbtbOKVjRbqLFuRVH3aS >}}
@@ -32,8 +37,3 @@ video:
       
       Coming Soon...
     image: images/video/podcast.png
-  - content: >
-      #### Livestream
-
-      Coming Soon...
-    image: images/video/twitch.png
