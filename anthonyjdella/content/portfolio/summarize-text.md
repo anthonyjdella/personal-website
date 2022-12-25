@@ -17,7 +17,7 @@ See some text you don't want to read?
 
 Pull out your phone -> Take a picture of it -> Get texted a summary of what it says
 
-Here's a gif of using it in action:
+Here it is in action:
 
 ![funny gif](/images/portfolio/summarize.gif)
 

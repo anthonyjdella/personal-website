@@ -1,10 +1,10 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Skills
 content: >
   ## Technical Proficiencies
   
-  These are based solely on my own perceptions.
+  These are based on my own perceptions. Through life-long learning, I aim to improve my weaknesses and learn new skills.
 image: images/skill/me-sitting.png
 imageOnMouseOver: images/skill/me-green.jpg
 
@@ -12,11 +12,11 @@ skill:
   - title: Python
     percent: 60
   - title: Java & Spring Boot
-    percent: 70
+    percent: 65
   - title: Javascript & Node.js
     percent: 40
   - title: HTML & CSS
-    percent: 60
+    percent: 45
   - title: CI/CD
     percent: 70
   - title: Willingness to Learn

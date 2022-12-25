@@ -18,7 +18,7 @@ Content, content, content! There's too much content out there and too much to re
 
 I built a Python app that does just this, and I'll teach you how you can build it too.
 
-Here's a gif of using it in action:
+Here it is in action:
 
 ![funny gif](/images/blog/summarize-text.gif)
 

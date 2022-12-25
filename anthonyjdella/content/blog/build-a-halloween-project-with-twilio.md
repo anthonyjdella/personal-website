@@ -16,7 +16,7 @@ tags: ["twilio", "how-to", "low-code"]
 
 Do you like scary movies? Based on the cult-class film, Screm (1996), I re-created a famous scene from the movie. Try it out by texting (940) 394-8137.
 
-Here's a gif of using it in action:
+Here it is in action:
 
 ![funny gif](/images/portfolio/halloween.gif)
 

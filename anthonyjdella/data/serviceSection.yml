@@ -1,15 +1,20 @@
 ---
 enable: true
-topTitle: Work
+topTitle: Specialization
 title: >
-  ## Specialization
+  ## Domain Knowledge
   
-  I'm interested in building products and entrepreneurship. Here are some services I provide.
+  Wondering how I can provide value? I have experience in multiple domains related to software engineering and developer realtions.
 service:
+  - content: >
+      #### Developer Relations
+
+      Through content creation, community building, and empathy I'm able to create trusted relationships with various developer personas.
+    image: images/service/devrel.jpg
   - content: >
       #### Back-end Development
 
-      By implementing server-side application logic, I handle and manipulate data to develop API's and services which can be used for consumption.
+      By implementing server-side application logic, I handle and manipulate data to develop API's and services which can be consumed.
     image: images/service/back.png
   - content: >
       #### Front-end Development
@@ -17,25 +22,25 @@ service:
       Using client-side code, I create responsive websites that handle requests all the while, providing interactive experiences for users.
     image: images/service/editing.png
   - content: >
-      #### UI/UX & Graphic Design
-
-      While prioritizing great user experiences, with a keen eye for design, I can create beautiful yet functional interfaces and graphics.
-    image: images/service/design.png
-  - content: >
       #### Tech Talks and Workshops 
       
       My approach to teaching is visual & interactive, while keeping things simple. My style has gotten a lot of praise in the corporate environment.
     image: images/service/talks.png
+  - content: >
+      #### Technical Documentation 
+      
+      Many developers dread writing documentation, but I love it. Organized & easy to understand docs are key to educating developers.
+    image: images/service/doc.png
   - content: >
       #### Consultation 
       
       With years of experience coupled with my enthusiasm for technology, I can give specialized advice to optimize applications, products, & businesses.
     image: images/service/consult.png
   - content: >
-      #### Technical Documentation 
-      
-      Many developers dread writing documentation, but I love it. Organized & easy to understand docs are key to helping other devs use your product.
-    image: images/service/doc.png
+      #### UI/UX & Graphic Design
+
+      While prioritizing great user experiences, with a keen eye for design, I can create beautiful yet functional interfaces and graphics.
+    image: images/service/design.png
   - content: >
       #### Photography & Editing
       

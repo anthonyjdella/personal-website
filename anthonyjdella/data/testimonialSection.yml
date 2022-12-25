@@ -2,7 +2,7 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People (in Tech) Say About Me?
+  ## Recommendations
 testimonial:
   - name: Anh Chu
     comment: Anthony is a very fast learner and a very creative full-stack developer who is obsessed with creating beautiful, sleek, and functional websites.
