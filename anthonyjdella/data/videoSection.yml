@@ -1,16 +1,11 @@
 ---
 enable: true
-topTitle: Videos, Livestream, Podcast
+topTitle: Video, Stream, Podcast
 title: >
   ## Media
   
-  You may have also seen me virtually, whether it be from a video, livestream, or podcast. Check them out!
+  Online communities are another way I reach developers. Twitch streams, Youtube videos, and podcasts are some forms I use.
 video:
-  - content: >
-      #### Twitch Livestream
-
-      {{< twitch >}}
-    image: images/video/twitch.png
   - content: >
       #### Twitch Clips
 
@@ -33,12 +28,12 @@ video:
     image: images/video/youtube.png
   - content: >
       #### Youtube Channel
-      
-      Coming Soon...
+
+      {{< soon >}}
       <!-- {{< youtubepl id="PLZ--yRVOz55g6Lip_UWGxAp6EkIfxClvt" >}} -->
     image: images/video/youtube.png
   - content: >
       #### Podcast
-      
-      Coming Soon...
+
+      {{< soon >}}
     image: images/video/podcast.png

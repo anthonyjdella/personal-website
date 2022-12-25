@@ -1,10 +1,32 @@
 ---
 enable: true
-topTitle: Presentations
+topTitle: Slide Decks
 title: >
-  ## Slide Decks
-testimonial:
-  - link: View my slides
-    description: My slides are publicly available on Notist, my public speaking portfolio.
-    site: on Notist
-    image: images/service/slideDeck.png
+  ## Presentations
+
+  If you saw me give a presentation (or missed it) and want to view the slide deck, they are available on Notist my public speaking portfolio.
+slide:
+  - content: >
+      #### Do you like scary movies? Halloween Meetup
+
+      {{< notist YEMatV >}}
+  - content: >
+      #### Summarize text from images using AI and Twilio
+
+      {{< notist L6gFMA >}}
+  - content: >
+      #### Learning to code? Let’s send texts by writing code
+
+      {{< notist U9Vpix >}}
+  - content: >
+      #### Gaining trust in APIs and what to look for
+
+      {{< notist FW4Dy9 >}}
+  - content: >
+      #### Live code an app that texts NBA news
+
+      {{< notist rpn1qY >}}
+  - content: >
+      #### Mars rover emails with Twilio Sendgrid
+
+      {{< notist 6TEdbM >}}
