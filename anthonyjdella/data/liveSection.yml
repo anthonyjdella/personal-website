@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Live
+title: >
+  ## Watch My Livestream
+
+  Follow me on Twitch
+content: >
+  {{< twitch >}}
+content2: >
+  {{< twitch-chat >}}
+button1Name: Subscribe to my stream

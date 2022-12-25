@@ -3,7 +3,7 @@ languageCode = "en-us"
 relativeurls = false
 uglyurls = false
 
-paginate = 6
+paginate = 7
 theme = "portio"
 title = "Anthony Dellavecchia"
 
@@ -34,9 +34,14 @@ url = "portfolio"
 weight = 5
 
 [[menu.main]]
+name = "Live"
+url = "live"
+weight = 6
+
+[[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 6
+weight = 7
 
 [params]
 homeURL = "https://anthonydellavecchia.com/#home"
@@ -45,6 +50,7 @@ blogPageURL = "blog"
 contactLink = "contact"
 homePageURL = "home"
 talkPageURL = "talks"
+livePageURL = "live"
 workPageURL = "portfolio"
 copyright = "• Made with ❤️, Hugo, & Firebase by Anthony Dellavecchia"
 footerLogo = "images/contact/profile-pic.png"
@@ -134,3 +140,6 @@ params = ["tags"]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
+
+[markup.goldmark.renderer]
+unsafe= true
