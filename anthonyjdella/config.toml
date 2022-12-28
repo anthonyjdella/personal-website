@@ -74,7 +74,7 @@ phone = "(940) 242 1288"
 
 [params.map]
 APIkey = "AIzaSyDGIkGQZO9Pz2MpLwaKKS1yq_7LXZQPd3Q"
-latitude = "47.62557"
+latitude = "47.62000"
 longitude = "-122.334388"
 pinImage = "images/pin.png"
 
