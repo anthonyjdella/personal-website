@@ -78,6 +78,12 @@ latitude = "47.62000"
 longitude = "-122.334388"
 pinImage = "images/pin.png"
 
+[params.talkMap]
+APIkey = "AIzaSyCQNEtGb9siEBR50SEM2iVIKzONq3HLjIs"
+latitude = "40.7128"
+longitude = "-74.0060"
+pinImage = "images/pin.png"
+
 # Social icons
 [[params.social]]
 icon = "fa-github"
