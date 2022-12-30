@@ -50,4 +50,30 @@ tags: ["career"]
 
 > I am so grateful for all of the opportunities that came my way in 2022. I hope that 2023 is even better.
 
+### Photos
+
+![Image](/images/blog/2022/1.jpg)
+![Image](/images/blog/2022/2.jpg)
+![Image](/images/blog/2022/3.jpg)
+![Image](/images/blog/2022/4.jpg)
+![Image](/images/blog/2022/5.jpg)
+![Image](/images/blog/2022/6.jpg)
+![Image](/images/blog/2022/7.jpg)
+![Image](/images/blog/2022/8.jpg)
+![Image](/images/blog/2022/9.jpg)
+![Image](/images/blog/2022/10.jpg)
+![Image](/images/blog/2022/11.jpg)
+![Image](/images/blog/2022/12.jpg)
+![Image](/images/blog/2022/13.jpg)
+![Image](/images/blog/2022/14.jpg)
+![Image](/images/blog/2022/15.jpg)
+![Image](/images/blog/2022/16.jpg)
+![Image](/images/blog/2022/17.jpg)
+![Image](/images/blog/2022/18.jpg)
+![Image](/images/blog/2022/19.jpg)
+![Image](/images/blog/2022/20.jpg)
+![Image](/images/blog/2022/21.jpg)
+![Image](/images/blog/2022/22.jpg)
+![Image](/images/blog/2022/23.jpg)
+
 ---
