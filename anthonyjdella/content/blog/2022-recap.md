@@ -52,6 +52,6 @@ tags: ["career"]
 
 ### Photos
 
-{{< carousel items="1" height="500" unit="px" duration="3000" >}}
+{{< gallery-slider dir="/images/blog/2022" auto-slide="3000" width="800px" height="500px">}}
 
 ---

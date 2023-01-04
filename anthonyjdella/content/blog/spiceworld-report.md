@@ -17,7 +17,7 @@ Through my interactions with attendees, I learned that most of them come from IT
 During the event, I gave a session to spark the imagination of builders by showing attendees how they can use Twilio Programmable Messaging to create a TLDR application in Python. In addition, I was able to drive awareness to the corresponding blog post.
 Shout out to Sabrina Francois and Alina Rakhmatoullina who were able to quickly help me out when it came to renting a monitor for the booth.
 
-![Image](/images/trip-report/spice6.jpg)
+![Image](/images/trip-report/spiceworld/spice6.jpg)
 
 ---
 
@@ -134,11 +134,7 @@ Shout out to Sabrina Francois and Alina Rakhmatoullina who were able to quickly 
 
 #### Photos:
 
-![Image](/images/trip-report/spice1.jpg)
-![Image](/images/trip-report/spice2.jpg)
-![Image](/images/trip-report/spice3.jpg)
-![Image](/images/trip-report/spice4.jpg)
-![Image](/images/trip-report/spice5.jpg)
+{{< gallery-slider dir="/images/trip-report/spiceworld" auto-slide="3000" width="800px" height="500px">}}
 
 
 ---

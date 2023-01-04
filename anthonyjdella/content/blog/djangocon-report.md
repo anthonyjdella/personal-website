@@ -21,7 +21,7 @@ During the event, I didn’t give a talk, but I did build a cool TwilioQuest ext
 
 To my knowledge, this is the first time Twilio has sponsored this event.
 
-![Image](/images/trip-report/django1.jpg)
+![Image](/images/trip-report/djangocon/django1.jpg)
 
 ---
 
@@ -136,10 +136,7 @@ To my knowledge, this is the first time Twilio has sponsored this event.
 
 #### Photos:
 
-![Image](/images/trip-report/django2.jpg)
-![Image](/images/trip-report/django3.jpg)
-![Image](/images/trip-report/django4.jpg)
-![Image](/images/trip-report/django5.jpg)
+{{< gallery-slider dir="/images/trip-report/djangocon" auto-slide="3000" width="800px" height="500px">}}
 
 
 ---

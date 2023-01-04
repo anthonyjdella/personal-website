@@ -16,7 +16,7 @@ The majority of the attendees had never heard of Twilio and many were just learn
 
 Over the two-day period, there were over 80 speakers. It was my first time attending a Twilio-sponsored conference, and my first time giving a Twilio demo as well as a workshop. In addition, I was able to drive awareness to my first technical blog, incorporated as part of the demo. Big shout out to Alina Rakhmatoullina, Lizzie Siegle, and Sam Agnew for supporting me at my first event! You can view the workshop and talk on Youtube.
 
-![Image](/images/trip-report/apidays1.jpg)
+![Image](/images/trip-report/api-days/apidays1.jpg)
 
 ---
 
@@ -123,12 +123,7 @@ Over the two-day period, there were over 80 speakers. It was my first time atten
 
 #### Photos:
 
-![Image](/images/trip-report/apidays2.JPG)
-![Image](/images/trip-report/apidays3.JPG)
-![Image](/images/trip-report/apidays4.JPG)
-![Image](/images/trip-report/apidays5.JPG)
-![Image](/images/trip-report/apidays6.JPG)
-![Image](/images/trip-report/apidays7.JPG)
+{{< gallery-slider dir="/images/trip-report/api-days" auto-slide="3000" width="800px" height="500px">}}
 
 
 ---

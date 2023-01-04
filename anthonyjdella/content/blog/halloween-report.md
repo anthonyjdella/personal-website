@@ -14,7 +14,7 @@ We also had a guest speaker from Microsoft who demonstrated how to build Hallowe
 
 Unfortunately, I don’t have an exact count but I think there were around 34 attendees (including our very own Gervis Cash, Lizzie Siegle, and Sarah Liu). With 20 survey results (for a response rate ~58%) the event had an NPS of 85.
 
-![Image](/images/trip-report/halloween1.jpg)
+![Image](/images/trip-report/halloween/halloween1.jpg)
 
 ---
 
@@ -141,18 +141,7 @@ Negative:
 
 #### Photos:
 
-![Image](/images/trip-report/halloween2.jpg)
-![Image](/images/trip-report/halloween3.jpg)
-![Image](/images/trip-report/halloween4.jpg)
-![Image](/images/trip-report/halloween5.jpg)
-![Image](/images/trip-report/halloween6.jpg)
-![Image](/images/trip-report/halloween7.jpg)
-![Image](/images/trip-report/halloween8.jpg)
-![Image](/images/trip-report/halloween9.jpg)
-![Image](/images/trip-report/halloween10.jpg)
-![Image](/images/trip-report/halloween11.jpg)
-![Image](/images/trip-report/halloween12.jpg)
-
+{{< gallery-slider dir="/images/trip-report/halloween" auto-slide="3000" width="800px" height="500px">}}
 
 
 ---
