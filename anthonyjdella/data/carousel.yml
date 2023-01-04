@@ -1,0 +1,47 @@
+images: 
+  - image: images/blog/2022/1.jpg
+    content_html: "1"
+  - image: images/blog/2022/2.jpg
+    content_html: "2"
+  - image: images/blog/2022/3.jpg
+    content_html: "3"
+  - image: images/blog/2022/4.jpg
+    content_html: "4"
+  - image: images/blog/2022/5.jpg
+    content_html: "5"
+  - image: images/blog/2022/6.jpg
+    content_html: "6"
+  - image: images/blog/2022/7.jpg
+    content_html: "7"
+  - image: images/blog/2022/8.jpg
+    content_html: "8"
+  - image: images/blog/2022/9.jpg
+    content_html: "9"
+  - image: images/blog/2022/10.jpg
+    content_html: "10"
+  - image: images/blog/2022/11.jpg
+    content_html: "11"
+  - image: images/blog/2022/12.jpg
+    content_html: "12"
+  - image: images/blog/2022/13.jpg
+    content_html: "13"
+  - image: images/blog/2022/14.jpg
+    content_html: "14"
+  - image: images/blog/2022/15.jpg
+    content_html: "15"
+  - image: images/blog/2022/16.jpg
+    content_html: "16"
+  - image: images/blog/2022/17.jpg
+    content_html: "17"
+  - image: images/blog/2022/18.jpg
+    content_html: "18"
+  - image: images/blog/2022/19.jpg
+    content_html: "19"
+  - image: images/blog/2022/20.jpg
+    content_html: "20"
+  - image: images/blog/2022/21.jpg
+    content_html: "21"
+  - image: images/blog/2022/22.jpg
+    content_html: "22"
+  - image: images/blog/2022/23.jpg
+    content_html: "23"
