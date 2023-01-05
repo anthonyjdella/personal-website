@@ -23,14 +23,6 @@ talks:
     time: March 25, 2023
     image: images/talks/uva.jpg
   - content: >
-      #### [Brown University](https://2023.hackatbrown.org/)
-
-      TBD\
-
-      Providence, RI
-    time: January 29, 2023
-    image: images/talks/brown.png
-  - content: >
       #### [Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
 
       [Let’s talk about our favorite terminal tools](https://stackoverflow.blog/2022/12/20/lets-talk-about-our-favorite-terminal-tools/)\
@@ -72,13 +64,13 @@ workshop:
     time: March 25, 2023
     image: images/talks/uva.jpg
   - content: >
-      #### [Brown University](https://2023.hackatbrown.org/)
+      #### [Twilio Webinar](https://www.twilio.com/events)
 
-      TBD\
+      Level Up with Twilio Studio\
 
-      Providence, RI
-    time: January 29, 2023
-    image: images/talks/brown.png
+      Online
+    time: January 24, 2023
+    image: images/talks/twilio.svg
   - content: >
       #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
 
