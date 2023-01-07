@@ -54,6 +54,22 @@ talks:
       New York City, NY
     time: July 28, 2022
     image: images/talks/apidays.png
+  - content: >
+      #### [State Farm](https://www.statefarm.com/)
+
+      [What is Chaos Engineering?](https://soundcloud.com/anthony-dellavecchia/what-is-chaos-engineering?si=ffec7e78bfa5410c9611513b331e8095&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)\
+
+      Dallas, TX
+    time: December 12, 2021
+    image: images/resume/sf.png
+  - content: >
+      #### [State Farm](https://www.statefarm.com/)
+
+      NIQS and Snyk Migration Guide\
+
+      Dallas, TX
+    time: November 18, 2021
+    image: images/resume/sf.png
 workshop:
   - content: >
       #### [University of Virginia](https://www.hoohacks.io/)

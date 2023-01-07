@@ -27,6 +27,11 @@ video:
       {{< yt elgcCqnNeEs >}}
     image: images/video/youtube.png
   - content: >
+      #### Chaos Engineering
+
+      {{< soundcloud "https://soundcloud.com/anthony-dellavecchia/what-is-chaos-engineering" WhatisChaosEngineering >}}
+    image: images/video/podcast.png
+  - content: >
       #### Youtube Channel
 
       {{< soon >}}
