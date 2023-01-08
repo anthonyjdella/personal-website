@@ -23,6 +23,14 @@ talks:
     time: March 25, 2023
     image: images/talks/uva.jpg
   - content: >
+      #### [Twilio](https://www.twilio.com/events)
+
+      Level Up with Twilio Studio\
+
+      Online
+    time: January 24, 2023
+    image: images/talks/twilio.svg
+  - content: >
       #### [Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
 
       [Let’s talk about our favorite terminal tools](https://stackoverflow.blog/2022/12/20/lets-talk-about-our-favorite-terminal-tools/)\
@@ -38,14 +46,6 @@ talks:
       Seattle, WA
     time: October 24, 2022
     image: images/talks/halloween-meetup.png
-  - content: >
-      #### [Seattle Meetup](https://www.meetup.com/twilio-seattle/events/287291753/)
-
-      [Learning to Code? Let's Send Text Messages by Writing Code](https://noti.st/anthonyjdella/U9Vpix/learning-to-code-lets-send-texts-by-writing-code)\
-
-      Seattle, WA
-    time: August 18, 2022
-    image: images/talks/meetup.png
   - content: >
       #### [API Days NYC](https://www.apidays.global/new-york/)
 
@@ -80,14 +80,6 @@ workshop:
     time: March 25, 2023
     image: images/talks/uva.jpg
   - content: >
-      #### [Twilio Webinar](https://www.twilio.com/events)
-
-      Level Up with Twilio Studio\
-
-      Online
-    time: January 24, 2023
-    image: images/talks/twilio.svg
-  - content: >
       #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
 
       [Summarize Text from Images Using AI, Python, and Twilio](https://noti.st/anthonyjdella/L6gFMA/summarize-text-from-images-using-ai-and-twilio)\
@@ -103,6 +95,14 @@ workshop:
       Philadelphia, PA
     time: September 3, 2022
     image: images/talks/upenn.png
+  - content: >
+      #### [Seattle Meetup](https://www.meetup.com/twilio-seattle/events/287291753/)
+
+      [Learning to Code? Let's Send Text Messages by Writing Code](https://noti.st/anthonyjdella/U9Vpix/learning-to-code-lets-send-texts-by-writing-code)\
+
+      Seattle, WA
+    time: August 18, 2022
+    image: images/talks/meetup.png
   - content: >
       #### [API Days NYC](https://www.apidays.global/new-york/)
 
