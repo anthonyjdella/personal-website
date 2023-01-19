@@ -21,6 +21,12 @@ education:
     time: 2022-present
     image: images/resume/twilio.svg
   - content: >
+      #### Major League Hacking
+
+      Streamer
+    time: 2023-present
+    image: images/resume/mlh.jpg
+  - content: >
       #### State Farm
 
       Software Engineer
