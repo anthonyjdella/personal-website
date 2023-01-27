@@ -7,6 +7,11 @@ title: >
   Online communities are another way I reach developers. Twitch streams, Youtube videos, and podcasts are some forms I use.
 video:
   - content: >
+      #### Level Up with Studio
+
+      {{< vimeo "793393059?h=6f38179a37" >}}
+    image: images/video/vimeo.png
+  - content: >
       #### Twitch Clips
 
       {{< twitch-collection qPTNKEibMxfivw>}}
