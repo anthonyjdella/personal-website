@@ -3,7 +3,7 @@ title: Daily Sit-Down
 date: 2023-01-26T12:49:27.000+06:00
 writtenDate: "January 26, 2023"
 authors: "Anthony Dellavecchia"
-featureImage: images/portfolio/daily-sit-down-2.gif
+featureImage: images/portfolio/daily-sit-down.gif
 service: REST API, Airtable, Twilio Studio
 client: Developers
 shortDescription: I built a Daily Stand-Up replacement. Try it out by texting (844) 668-2535
