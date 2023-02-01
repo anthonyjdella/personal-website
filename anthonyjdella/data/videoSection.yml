@@ -12,11 +12,6 @@ video:
       {{< vimeo "793393059?h=6f38179a37" >}}
     image: images/video/vimeo.png
   - content: >
-      #### Twitch Clips
-
-      {{< twitch-collection qPTNKEibMxfivw>}}
-    image: images/video/twitch.png
-  - content: >
       #### Stack Overflow Podcast
 
       {{< spotify 56LbtbOKVjRbqLFuRVH3aS >}}
@@ -27,9 +22,19 @@ video:
       {{< yt LnfYf6baTQs >}}
     image: images/video/youtube.png
   - content: >
+      #### Twitch Clips
+
+      {{< twitch-collection qPTNKEibMxfivw>}}
+    image: images/video/twitch.png
+  - content: >
       #### Gaining Trust in APIs and What to Look For
 
       {{< yt elgcCqnNeEs >}}
+    image: images/video/youtube.png
+  - content: >
+      #### Receive Mars Pictures with Sendgrid
+
+      {{< yt zTVZ_t03IPM >}}
     image: images/video/youtube.png
   - content: >
       #### Chaos Engineering
