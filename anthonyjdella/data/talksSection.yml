@@ -80,6 +80,14 @@ workshop:
     time: March 25, 2023
     image: images/talks/uva.jpg
   - content: >
+      #### [HackPNW](https://www.hackpnw.org/)
+
+      [Hack with Studio](https://github.com/anthonyjdella/hack-pnw-2023)\
+
+      Seattle, WA
+    time: February 4, 2023
+    image: images/talks/hackpnw.png
+  - content: >
       #### [Spiceworld](https://www.spiceworks.com/spiceworld/)
 
       [Summarize Text from Images Using AI, Python, and Twilio](https://noti.st/anthonyjdella/L6gFMA/summarize-text-from-images-using-ai-and-twilio)\
